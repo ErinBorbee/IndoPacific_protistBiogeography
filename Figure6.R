@@ -19,9 +19,9 @@ data_long <- read.csv("richness_long.csv")
 data_long <- data[,-c(10:14)]
 data_long <- data_long[,-c(8:12)]
 data_long <- melt(data)
-write.csv(data_long,"richnessLong.csv")
+write.csv(data_long,"richness_long.csv")
 
-data_long <- read.csv("richnessLong.csv")
+data_long <- read.csv("richness_long.csv")
 data_long <- subset(data_long, type == "OTUrichness")
 
 plot <- ggplot(data_long, aes(management_type,value)) + geom_boxplot() + facet_grid(region~variable, scales = "free")
