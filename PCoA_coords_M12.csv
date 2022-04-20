@@ -1,0 +1,87 @@
+sampleID,Axis13.778467,Axis6.232042,Axis5.045392,region,location,siteID,depth,filter,subset,MPA,management,restrictions
+EB501,-0.246094963,0.281251079,0.019958885,Lombok,North Lombok,LBK_16,M,12um,M12,yes,core zone,fishing prohibited
+EB505,0.212239301,0.270962104,0.04848544,Lombok,North Lombok,LBK_17,M,12um,M12,no,open access,unrestricted fishing
+EB508,-0.291980731,0.203163182,-0.184092451,Lombok,North Lombok,LBK_18,M,12um,M12,no,open access,unrestricted fishing
+EB512,-0.069051956,0.004330559,-0.108507366,Lombok,South Lombok,LBK_07,M,12um,M12,yes,core zone,fishing prohibited
+EB515,0.003344964,-0.010910583,-0.001931049,Lombok,South Lombok,LBK_08,M,12um,M12,no,open access,unrestricted fishing
+EB519,-0.134583274,0.041579336,-0.174713438,Lombok,South Lombok,LBK_09,M,12um,M12,no,open access,unrestricted fishing
+EB522,-0.23139098,0.092329744,-0.045128034,Lombok,South Lombok,LBK_10,M,12um,M12,yes,core zone,fishing prohibited
+EB525,-0.221901372,0.049563176,-0.199110988,Lombok,South Lombok,LBK_12,M,12um,M12,yes,sustainable fisheries zone,fishing gear restriction
+EB527,-0.229034521,0.080417217,-0.154290856,Lombok,South Lombok,LBK_11,M,12um,M12,yes,sustainable fisheries zone,fishing gear restriction
+EB531,-0.255576417,0.118461849,-0.024378596,Waigeo,Waigeo,WGO_01,M,12um,M12,yes,core zone,fishing prohibited
+EB535,-0.27619123,0.250910749,-0.124996713,Waigeo,Waigeo,WGO_02,M,12um,M12,yes,core zone,fishing prohibited
+EB536,-0.219291479,0.099280319,-0.158761474,Waigeo,Waigeo,WGO_03,M,12um,M12,yes,core zone,fishing prohibited
+EB538,0.011405067,-0.012135202,0.184830415,Waigeo,Waigeo,WGO_04,M,12um,M12,yes,core zone,fishing prohibited
+EB540,-0.089996867,0.04940002,-0.198165227,Waigeo,Waigeo,WGO_05,M,12um,M12,yes,tourism zone,fishing prohibited
+EB542,0.081036784,0.141035493,0.276255513,Waigeo,Waigeo,WGO_06,M,12um,M12,yes,tourism zone,fishing prohibited
+EB544,-0.237507541,-0.082259019,0.0283255,Waigeo,Waigeo,WGO_07,M,12um,M12,yes,tourism zone,fishing prohibited
+EB546,-0.287046606,0.025724661,0.101269805,Waigeo,Waigeo,WGO_08,M,12um,M12,yes,core zone,fishing prohibited
+EB548,-0.310464705,0.124182501,0.148807419,Waigeo,Waigeo,WGO_09,M,12um,M12,yes,tourism zone,fishing prohibited
+EB550,-0.125870752,0.045399439,-0.090771844,Waigeo,Waigeo,WGO_10,M,12um,M12,yes,tourism zone,fishing prohibited
+EB552,-0.132516658,-0.209233129,0.13510346,Waigeo,Waigeo,WGO_11,M,12um,M12,no,open access,unrestricted fishing
+EB555,-0.051320931,0.204927175,0.128146285,Waigeo,Waigeo,WGO_12,M,12um,M12,no,open access,unrestricted fishing
+EB558,0.193306464,-0.137699859,0.046843912,Waigeo,Waigeo,WGO_13,M,12um,M12,no,open access,unrestricted fishing
+EB559,0.064661302,-0.101876625,0.183241711,Waigeo,Waigeo,WGO_14,M,12um,M12,no,open access,unrestricted fishing
+EB562,0.057574988,0.056223598,0.186226419,Waigeo,Waigeo,WGO_16,M,12um,M12,yes,core zone,fishing prohibited
+EB564,-0.288867827,0.087727566,0.143453345,Waigeo,Waigeo,WGO_17,M,12um,M12,yes,core zone,fishing prohibited
+EB565,-0.107941415,-0.144732887,0.312983709,Waigeo,Waigeo,WGO_18,M,12um,M12,no,open access,unrestricted fishing
+EB567,-0.183130867,0.130297373,0.169829243,Waigeo,Waigeo,WGO_19,M,12um,M12,no,open access,unrestricted fishing
+EB570,0.156322548,-0.206657187,-0.114755698,Misool,Misool,MIS_01,M,12um,M12,yes,sustainable fisheries zone,fishing gear restriction
+EB574,0.354078163,0.136353776,-0.008010884,Misool,Misool,MIS_01,M,12um,M12,yes,sustainable fisheries zone,fishing gear restriction
+EB578,0.090484038,-0.237956072,-0.093933171,Misool,Misool,MIS_02,M,12um,M12,yes,tourism zone,fishing prohibited
+EB582,0.143694061,-0.275537198,-0.119259936,Misool,Misool,MIS_03,M,12um,M12,yes,tourism zone,fishing prohibited
+EB586,0.100531226,-0.341608409,-0.051826975,Misool,Misool,MIS_04,M,12um,M12,yes,tourism zone,fishing prohibited
+EB590,0.096692441,-0.193371668,-0.007020991,Misool,Misool,MIS_05,M,12um,M12,yes,tourism zone,fishing prohibited
+EB594,0.150883038,-0.229847592,-0.060139159,Misool,Misool,MIS_06,M,12um,M12,yes,tourism zone,fishing prohibited
+EB602,0.100873364,-0.233703027,-0.18904446,Misool,Misool,MIS_07,M,12um,M12,yes,sustainable fisheries zone,fishing gear restriction
+EB606,0.137498662,-0.216344278,-0.156456681,Misool,Misool,MIS_08,M,12um,M12,yes,sustainable fisheries zone,fishing gear restriction
+EB610,0.106212102,-0.250242063,-0.097496973,Misool,Misool,MIS_09,M,12um,M12,yes,sustainable fisheries zone,fishing gear restriction
+EB614,0.207824045,-0.180512508,-0.059155361,Misool,Misool,MIS_10,M,12um,M12,yes,sustainable fisheries zone,fishing gear restriction
+EB618,0.045156057,-0.179386776,-0.080842731,Misool,Misool,MIS_11,M,12um,M12,yes,sustainable fisheries zone,fishing gear restriction
+EB622,0.106306564,-0.279390373,-0.034741807,Misool,Misool,MIS_12,M,12um,M12,yes,sustainable fisheries zone,fishing gear restriction
+EB626,0.049020721,-0.233221735,-0.023810781,Misool,Misool,MIS_13,M,12um,M12,yes,tourism zone,fishing prohibited
+EB630,0.411231344,0.252467357,0.056825301,Misool,Misool,MIS_14,M,12um,M12,yes,sustainable fisheries zone,fishing gear restriction
+EB634,0.303164251,0.114325313,-0.029884531,Misool,Misool,MIS_15,M,12um,M12,yes,sustainable fisheries zone,fishing gear restriction
+EB638,0.172482697,0.167753039,-0.113273285,Misool,Misool,MIS_16,M,12um,M12,yes,sustainable fisheries zone,fishing gear restriction
+EB642,0.41862281,0.213631971,0.040894759,Misool,Misool,MIS_17,M,12um,M12,yes,sustainable fisheries zone,fishing gear restriction
+EB646,0.355161854,0.184406562,0.077340472,Misool,Misool,MIS_18,M,12um,M12,yes,tourism zone,fishing prohibited
+EB650,0.387379587,0.163780645,0.044499644,Misool,Misool,MIS_19,M,12um,M12,yes,tourism zone,fishing prohibited
+EB654,0.22876639,-0.127867057,-0.090192739,Misool,Misool,MIS_20,M,12um,M12,yes,tourism zone,fishing prohibited
+EB658,0.377750228,0.069787269,-0.004806137,Misool,Misool,MIS_21,M,12um,M12,yes,tourism zone,fishing prohibited
+EB1,-0.265491106,0.026123681,0.012518715,Waigeo,Waigeo,WGO_01,M,12um,M12,yes,core zone,fishing prohibited
+EB10,-0.229345078,-0.105049597,0.172307103,Waigeo,Waigeo,WGO_09,M,12um,M12,yes,tourism zone,fishing prohibited
+EB11,-0.143299346,0.024595576,-0.065132896,Waigeo,Waigeo,WGO_10,M,12um,M12,yes,tourism zone,fishing prohibited
+EB12,-0.054095762,-0.239512668,0.10690287,Waigeo,Waigeo,WGO_11,M,12um,M12,no,open access,unrestricted fishing
+EB13,-0.052073075,-0.174365316,0.13963752,Waigeo,Waigeo,WGO_12,M,12um,M12,no,open access,unrestricted fishing
+EB14,0.184395386,-0.22092659,0.042852261,Waigeo,Waigeo,WGO_13,M,12um,M12,no,open access,unrestricted fishing
+EB15,0.056547779,-0.128510983,0.27972026,Waigeo,Waigeo,WGO_14,M,12um,M12,no,open access,unrestricted fishing
+EB16,-0.046545586,-0.102398378,0.385570684,Waigeo,Waigeo,WGO_16,M,12um,M12,yes,core zone,fishing prohibited
+EB17,-0.100947493,-0.197671719,0.359283742,Waigeo,Waigeo,WGO_17,M,12um,M12,yes,core zone,fishing prohibited
+EB18,-0.230783854,0.036338961,0.092060099,Waigeo,Waigeo,WGO_18,M,12um,M12,no,open access,unrestricted fishing
+EB19,-0.103340499,0.068374738,0.117817303,Waigeo,Waigeo,WGO_19,M,12um,M12,no,open access,unrestricted fishing
+EB2,-0.344915161,0.028702615,-0.087178574,Waigeo,Waigeo,WGO_02,M,12um,M12,yes,core zone,fishing prohibited
+EB47,-0.280960836,0.062975134,-0.072504096,Waigeo,Waigeo,WGO_03,M,12um,M12,yes,core zone,fishing prohibited
+EB5,-0.283119835,0.037170834,0.098222424,Waigeo,Waigeo,WGO_04,M,12um,M12,yes,core zone,fishing prohibited
+EB6,-0.152667477,0.102451433,-0.20810097,Waigeo,Waigeo,WGO_05,M,12um,M12,yes,tourism zone,fishing prohibited
+EB7,-0.297985709,-0.014772237,0.096409366,Waigeo,Waigeo,WGO_06,M,12um,M12,yes,tourism zone,fishing prohibited
+EB8,-0.315877051,-0.053471127,0.108701797,Waigeo,Waigeo,WGO_07,M,12um,M12,yes,tourism zone,fishing prohibited
+EB9,-0.284266611,0.039395733,0.096886516,Waigeo,Waigeo,WGO_08,M,12um,M12,yes,core zone,fishing prohibited
+EB236,-0.198069595,0.083195448,-0.111507037,Wakatobi,Wakatobi,WK_03,M,12um,M12,no,open access,unrestricted fishing
+EB240,0.301151636,0.304532129,0.07650768,Wakatobi,Wakatobi,WK_04,M,12um,M12,no,open access,unrestricted fishing
+EB243,0.020771372,-0.083248678,-0.162988912,Wakatobi,Wakatobi,WK_05,M,12um,M12,no,open access,unrestricted fishing
+EB246,0.036773324,-0.187023083,0.09400101,Wakatobi,Wakatobi,WK_06,M,12um,M12,no,open access,unrestricted fishing
+EB249,0.160623652,-0.023010613,-0.021849958,Wakatobi,Wakatobi,WK_08,M,12um,M12,no,open access,unrestricted fishing
+EB252,0.143395889,0.143951025,0.142141371,Wakatobi,Wakatobi,WK_09,M,12um,M12,no,open access,unrestricted fishing
+EB254,0.176182889,-0.120824641,-0.038652007,Wakatobi,Wakatobi,WK_11,M,12um,M12,no,open access,unrestricted fishing
+EB256,0.060132955,-0.199956795,0.031776046,Wakatobi,Wakatobi,WK_12,M,12um,M12,no,open access,unrestricted fishing
+EB258,0.366467507,0.320742005,0.102019526,Wakatobi,Wakatobi,WK_15,M,12um,M12,no,open access,unrestricted fishing
+EB261,0.373655879,0.373554611,0.127714435,Wakatobi,Wakatobi,WK_16,M,12um,M12,no,open access,unrestricted fishing
+EB263,0.201226452,0.027120391,-0.029902787,Wakatobi,Wakatobi,WK_18,M,12um,M12,no,open access,unrestricted fishing
+EB267,0.273789861,0.013403313,-0.076589408,Wakatobi,Wakatobi,WK_20,M,12um,M12,no,open access,unrestricted fishing
+EB356,-0.123559388,0.158945407,-0.080454178,Lombok,North Lombok,LBK_01,M,12um,M12,yes,core zone,fishing prohibited
+EB360,-0.015873127,0.102044242,-0.257547445,Lombok,North Lombok,LBK_02,M,12um,M12,yes,sustainable fisheries zone,fishing gear restriction
+EB364,-0.130985221,0.12352692,-0.220980978,Lombok,North Lombok,LBK_03,M,12um,M12,yes,sustainable fisheries zone,fishing gear restriction
+EB368,0.184251728,0.02853791,-0.196438205,Lombok,North Lombok,LBK_04,M,12um,M12,yes,core zone,fishing prohibited
+EB385,-0.12941269,-0.005810381,-0.14960962,Lombok,North Lombok,LBK_13,M,12um,M12,yes,core zone,fishing prohibited
+EB389,0.051790518,-0.058100603,-0.233965823,Lombok,North Lombok,LBK_14,M,12um,M12,yes,sustainable fisheries zone,fishing gear restriction
+EB393,0.058513703,0.033791477,-0.20346874,Lombok,North Lombok,LBK_15,M,12um,M12,yes,sustainable fisheries zone,fishing gear restriction
