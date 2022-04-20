@@ -28,5 +28,8 @@ Overall protist richness, dinoflagellate richness, and diatom richness by locati
 Map of Indonesia with boses indicating sampling regions and arrows indicating surface current patterns. Map plotted using the same script as Figure 1 and arrows and boxes added to map in Adobe Illustrator.
 
 #### Supplemental Figure 1
-Barplot for V9 mock community plotted in R and labeled in Adobe Illustrator
+Barplot for V9 mock community plotted in R and labeled in Adobe Illustrator.
+
+#### Supplemental Figure 2
+Rarefaction curves by sample type and locations plotted in R.
 
