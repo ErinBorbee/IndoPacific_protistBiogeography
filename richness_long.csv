@@ -1,0 +1,913 @@
+region,location,siteID,depth,filter,subset,variable,value,color,restriction
+Lombok,North Lombok,LBK_01,M,12um,M12,All,36,high,fishing prohibited
+Lombok,North Lombok,LBK_01,S,0.4um,S04,All,27,high,fishing prohibited
+Lombok,North Lombok,LBK_01,S,12um,S12,All,124,high,fishing prohibited
+Lombok,North Lombok,LBK_02,M,0.4um,M04,All,141,high,fishing gear restriction
+Lombok,North Lombok,LBK_02,M,12um,M12,All,46,high,fishing gear restriction
+Lombok,North Lombok,LBK_02,S,0.4um,S04,All,174,high,fishing gear restriction
+Lombok,North Lombok,LBK_02,S,12um,S12,All,125,high,fishing gear restriction
+Lombok,North Lombok,LBK_03,M,0.4um,M04,All,133,high,fishing gear restriction
+Lombok,North Lombok,LBK_03,M,12um,M12,All,76,high,fishing gear restriction
+Lombok,North Lombok,LBK_03,S,0.4um,S04,All,142,high,fishing gear restriction
+Lombok,North Lombok,LBK_03,S,12um,S12,All,168,high,fishing gear restriction
+Lombok,North Lombok,LBK_04,M,0.4um,M04,All,132,high,fishing prohibited
+Lombok,North Lombok,LBK_04,M,12um,M12,All,53,high,fishing prohibited
+Lombok,North Lombok,LBK_04,S,0.4um,S04,All,97,high,fishing prohibited
+Lombok,North Lombok,LBK_04,S,12um,S12,All,120,high,fishing prohibited
+Lombok,North Lombok,LBK_05,M,0.4um,M04,All,149,high,unrestricted fishing
+Lombok,North Lombok,LBK_05,S,0.4um,S04,All,73,high,unrestricted fishing
+Lombok,North Lombok,LBK_05,S,12um,S12,All,101,high,unrestricted fishing
+Lombok,North Lombok,LBK_06,M,0.4um,M04,All,155,high,unrestricted fishing
+Lombok,North Lombok,LBK_06,S,0.4um,S04,All,101,high,unrestricted fishing
+Lombok,North Lombok,LBK_06,S,12um,S12,All,96,high,unrestricted fishing
+Lombok,South Lombok,LBK_07,M,0.4um,M04,All,102,high,fishing prohibited
+Lombok,South Lombok,LBK_07,M,12um,M12,All,55,high,fishing prohibited
+Lombok,South Lombok,LBK_07,S,0.4um,S04,All,107,high,fishing prohibited
+Lombok,South Lombok,LBK_07,S,12um,S12,All,106,high,fishing prohibited
+Lombok,South Lombok,LBK_08,M,0.4um,M04,All,108,high,unrestricted fishing
+Lombok,South Lombok,LBK_08,M,12um,M12,All,98,high,unrestricted fishing
+Lombok,South Lombok,LBK_08,S,0.4um,S04,All,76,high,unrestricted fishing
+Lombok,South Lombok,LBK_08,S,12um,S12,All,79,high,unrestricted fishing
+Lombok,South Lombok,LBK_09,M,0.4um,M04,All,105,high,unrestricted fishing
+Lombok,South Lombok,LBK_09,M,12um,M12,All,57,high,unrestricted fishing
+Lombok,South Lombok,LBK_09,S,0.4um,S04,All,96,high,unrestricted fishing
+Lombok,South Lombok,LBK_09,S,12um,S12,All,84,high,unrestricted fishing
+Lombok,South Lombok,LBK_10,M,0.4um,M04,All,106,high,fishing prohibited
+Lombok,South Lombok,LBK_10,M,12um,M12,All,90,high,fishing prohibited
+Lombok,South Lombok,LBK_10,S,0.4um,S04,All,63,high,fishing prohibited
+Lombok,South Lombok,LBK_10,S,12um,S12,All,140,high,fishing prohibited
+Lombok,South Lombok,LBK_11,M,0.4um,M04,All,140,high,fishing gear restriction
+Lombok,South Lombok,LBK_11,M,12um,M12,All,82,high,fishing gear restriction
+Lombok,South Lombok,LBK_11,S,0.4um,S04,All,103,high,fishing gear restriction
+Lombok,South Lombok,LBK_11,S,12um,S12,All,84,high,fishing gear restriction
+Lombok,South Lombok,LBK_12,M,0.4um,M04,All,155,high,fishing gear restriction
+Lombok,South Lombok,LBK_12,M,12um,M12,All,59,high,fishing gear restriction
+Lombok,South Lombok,LBK_12,S,0.4um,S04,All,98,high,fishing gear restriction
+Lombok,South Lombok,LBK_12,S,12um,S12,All,127,high,fishing gear restriction
+Lombok,North Lombok,LBK_13,M,0.4um,M04,All,143,high,fishing prohibited
+Lombok,North Lombok,LBK_13,M,12um,M12,All,87,high,fishing prohibited
+Lombok,North Lombok,LBK_13,S,0.4um,S04,All,84,high,fishing prohibited
+Lombok,North Lombok,LBK_13,S,12um,S12,All,54,high,fishing prohibited
+Lombok,North Lombok,LBK_14,M,0.4um,M04,All,131,high,fishing gear restriction
+Lombok,North Lombok,LBK_14,M,12um,M12,All,38,high,fishing gear restriction
+Lombok,North Lombok,LBK_14,S,0.4um,S04,All,129,high,fishing gear restriction
+Lombok,North Lombok,LBK_14,S,12um,S12,All,104,high,fishing gear restriction
+Lombok,North Lombok,LBK_15,M,0.4um,M04,All,148,high,fishing gear restriction
+Lombok,North Lombok,LBK_15,M,12um,M12,All,23,high,fishing gear restriction
+Lombok,North Lombok,LBK_15,S,0.4um,S04,All,185,high,fishing gear restriction
+Lombok,North Lombok,LBK_15,S,12um,S12,All,71,high,fishing gear restriction
+Lombok,North Lombok,LBK_16,M,0.4um,M04,All,127,high,fishing prohibited
+Lombok,North Lombok,LBK_16,M,12um,M12,All,32,high,fishing prohibited
+Lombok,North Lombok,LBK_16,S,0.4um,S04,All,113,high,fishing prohibited
+Lombok,North Lombok,LBK_16,S,12um,S12,All,84,high,fishing prohibited
+Lombok,North Lombok,LBK_17,M,0.4um,M04,All,34,high,unrestricted fishing
+Lombok,North Lombok,LBK_17,M,12um,M12,All,103,high,unrestricted fishing
+Lombok,North Lombok,LBK_17,S,0.4um,S04,All,109,high,unrestricted fishing
+Lombok,North Lombok,LBK_17,S,12um,S12,All,44,high,unrestricted fishing
+Lombok,North Lombok,LBK_18,M,0.4um,M04,All,80,high,unrestricted fishing
+Lombok,North Lombok,LBK_18,M,12um,M12,All,53,high,unrestricted fishing
+Lombok,North Lombok,LBK_18,S,12um,S12,All,82,high,unrestricted fishing
+Misool,Misool,MIS_01,M,0.4um,M04,All,99,high,fishing gear restriction
+Misool,Misool,MIS_01,M,0.4um,M04,All,112,high,fishing gear restriction
+Misool,Misool,MIS_01,M,12um,M12,All,42,high,fishing gear restriction
+Misool,Misool,MIS_01,M,12um,M12,All,100,high,fishing gear restriction
+Misool,Misool,MIS_01,S,0.4um,S04,All,136,high,fishing gear restriction
+Misool,Misool,MIS_01,S,0.4um,S04,All,138,high,fishing gear restriction
+Misool,Misool,MIS_01,S,12um,S12,All,81,high,fishing gear restriction
+Misool,Misool,MIS_01,S,12um,S12,All,43,high,fishing gear restriction
+Misool,Misool,MIS_02,M,0.4um,M04,All,109,high,fishing prohibited
+Misool,Misool,MIS_02,M,12um,M12,All,66,high,fishing prohibited
+Misool,Misool,MIS_02,S,0.4um,S04,All,102,high,fishing prohibited
+Misool,Misool,MIS_02,S,12um,S12,All,34,high,fishing prohibited
+Misool,Misool,MIS_03,M,12um,M12,All,77,high,fishing prohibited
+Misool,Misool,MIS_03,S,0.4um,S04,All,152,high,fishing prohibited
+Misool,Misool,MIS_03,S,12um,S12,All,144,high,fishing prohibited
+Misool,Misool,MIS_04,M,0.4um,M04,All,159,high,fishing prohibited
+Misool,Misool,MIS_04,M,12um,M12,All,65,high,fishing prohibited
+Misool,Misool,MIS_04,S,0.4um,S04,All,105,high,fishing prohibited
+Misool,Misool,MIS_04,S,12um,S12,All,131,high,fishing prohibited
+Misool,Misool,MIS_05,M,0.4um,M04,All,128,high,fishing prohibited
+Misool,Misool,MIS_05,M,12um,M12,All,46,high,fishing prohibited
+Misool,Misool,MIS_05,S,0.4um,S04,All,187,high,fishing prohibited
+Misool,Misool,MIS_05,S,12um,S12,All,137,high,fishing prohibited
+Misool,Misool,MIS_06,M,0.4um,M04,All,128,high,fishing prohibited
+Misool,Misool,MIS_06,M,12um,M12,All,44,high,fishing prohibited
+Misool,Misool,MIS_06,S,0.4um,S04,All,134,high,fishing prohibited
+Misool,Misool,MIS_06,S,12um,S12,All,78,high,fishing prohibited
+Misool,Misool,MIS_07,M,0.4um,M04,All,144,high,fishing gear restriction
+Misool,Misool,MIS_07,M,12um,M12,All,72,high,fishing gear restriction
+Misool,Misool,MIS_07,S,0.4um,S04,All,99,high,fishing gear restriction
+Misool,Misool,MIS_07,S,12um,S12,All,106,high,fishing gear restriction
+Misool,Misool,MIS_08,M,0.4um,M04,All,103,high,fishing gear restriction
+Misool,Misool,MIS_08,M,12um,M12,All,56,high,fishing gear restriction
+Misool,Misool,MIS_08,S,0.4um,S04,All,105,high,fishing gear restriction
+Misool,Misool,MIS_08,S,12um,S12,All,97,high,fishing gear restriction
+Misool,Misool,MIS_09,M,0.4um,M04,All,111,high,fishing gear restriction
+Misool,Misool,MIS_09,M,12um,M12,All,48,high,fishing gear restriction
+Misool,Misool,MIS_09,S,0.4um,S04,All,121,high,fishing gear restriction
+Misool,Misool,MIS_09,S,12um,S12,All,118,high,fishing gear restriction
+Misool,Misool,MIS_10,M,0.4um,M04,All,101,high,fishing gear restriction
+Misool,Misool,MIS_10,M,12um,M12,All,64,high,fishing gear restriction
+Misool,Misool,MIS_10,S,0.4um,S04,All,78,high,fishing gear restriction
+Misool,Misool,MIS_10,S,12um,S12,All,105,high,fishing gear restriction
+Misool,Misool,MIS_11,M,0.4um,M04,All,154,high,fishing gear restriction
+Misool,Misool,MIS_11,M,12um,M12,All,76,high,fishing gear restriction
+Misool,Misool,MIS_11,S,0.4um,S04,All,140,high,fishing gear restriction
+Misool,Misool,MIS_11,S,12um,S12,All,149,high,fishing gear restriction
+Misool,Misool,MIS_12,M,0.4um,M04,All,114,high,fishing gear restriction
+Misool,Misool,MIS_12,M,12um,M12,All,82,high,fishing gear restriction
+Misool,Misool,MIS_12,S,0.4um,S04,All,142,high,fishing gear restriction
+Misool,Misool,MIS_12,S,12um,S12,All,131,high,fishing gear restriction
+Misool,Misool,MIS_13,M,0.4um,M04,All,179,high,fishing prohibited
+Misool,Misool,MIS_13,M,12um,M12,All,126,high,fishing prohibited
+Misool,Misool,MIS_13,S,0.4um,S04,All,127,high,fishing prohibited
+Misool,Misool,MIS_13,S,12um,S12,All,111,high,fishing prohibited
+Misool,Misool,MIS_14,M,0.4um,M04,All,24,high,fishing gear restriction
+Misool,Misool,MIS_14,M,12um,M12,All,130,high,fishing gear restriction
+Misool,Misool,MIS_14,S,0.4um,S04,All,113,high,fishing gear restriction
+Misool,Misool,MIS_14,S,12um,S12,All,134,high,fishing gear restriction
+Misool,Misool,MIS_15,M,0.4um,M04,All,82,high,fishing gear restriction
+Misool,Misool,MIS_15,M,12um,M12,All,48,high,fishing gear restriction
+Misool,Misool,MIS_15,S,0.4um,S04,All,87,high,fishing gear restriction
+Misool,Misool,MIS_15,S,12um,S12,All,49,high,fishing gear restriction
+Misool,Misool,MIS_16,M,0.4um,M04,All,98,high,fishing gear restriction
+Misool,Misool,MIS_16,M,12um,M12,All,48,high,fishing gear restriction
+Misool,Misool,MIS_16,S,0.4um,S04,All,42,high,fishing gear restriction
+Misool,Misool,MIS_16,S,12um,S12,All,50,high,fishing gear restriction
+Misool,Misool,MIS_17,M,12um,M12,All,133,high,fishing gear restriction
+Misool,Misool,MIS_17,S,0.4um,S04,All,120,high,fishing gear restriction
+Misool,Misool,MIS_17,S,12um,S12,All,81,high,fishing gear restriction
+Misool,Misool,MIS_18,M,0.4um,M04,All,134,high,fishing prohibited
+Misool,Misool,MIS_18,M,12um,M12,All,102,high,fishing prohibited
+Misool,Misool,MIS_18,S,0.4um,S04,All,130,high,fishing prohibited
+Misool,Misool,MIS_18,S,12um,S12,All,129,high,fishing prohibited
+Misool,Misool,MIS_19,M,0.4um,M04,All,96,high,fishing prohibited
+Misool,Misool,MIS_19,M,12um,M12,All,137,high,fishing prohibited
+Misool,Misool,MIS_19,S,0.4um,S04,All,88,high,fishing prohibited
+Misool,Misool,MIS_19,S,12um,S12,All,82,high,fishing prohibited
+Misool,Misool,MIS_20,M,0.4um,M04,All,132,high,fishing prohibited
+Misool,Misool,MIS_20,M,12um,M12,All,51,high,fishing prohibited
+Misool,Misool,MIS_20,S,0.4um,S04,All,176,high,fishing prohibited
+Misool,Misool,MIS_20,S,12um,S12,All,125,high,fishing prohibited
+Misool,Misool,MIS_21,M,0.4um,M04,All,119,high,fishing prohibited
+Misool,Misool,MIS_21,M,12um,M12,All,92,high,fishing prohibited
+Misool,Misool,MIS_21,S,0.4um,S04,All,141,high,fishing prohibited
+Misool,Misool,MIS_21,S,12um,S12,All,132,high,fishing prohibited
+Waigeo,Waigeo,WGO_01,M,0.4um,M04,All,3,low,fishing prohibited
+Waigeo,Waigeo,WGO_01,M,0.4um,M04,All,21,low,fishing prohibited
+Waigeo,Waigeo,WGO_01,M,12um,M12,All,36,low,fishing prohibited
+Waigeo,Waigeo,WGO_01,M,12um,M12,All,62,low,fishing prohibited
+Waigeo,Waigeo,WGO_01,S,0.4um,S04,All,12,low,fishing prohibited
+Waigeo,Waigeo,WGO_01,S,12um,S12,All,12,low,fishing prohibited
+Waigeo,Waigeo,WGO_01,S,12um,S12,All,124,low,fishing prohibited
+Waigeo,Waigeo,WGO_02,M,0.4um,M04,All,59,low,fishing prohibited
+Waigeo,Waigeo,WGO_02,M,0.4um,M04,All,95,low,fishing prohibited
+Waigeo,Waigeo,WGO_02,M,12um,M12,All,10,low,fishing prohibited
+Waigeo,Waigeo,WGO_02,M,12um,M12,All,54,low,fishing prohibited
+Waigeo,Waigeo,WGO_02,S,0.4um,S04,All,107,low,fishing prohibited
+Waigeo,Waigeo,WGO_02,S,0.4um,S04,All,37,low,fishing prohibited
+Waigeo,Waigeo,WGO_02,S,12um,S12,All,43,low,fishing prohibited
+Waigeo,Waigeo,WGO_02,S,12um,S12,All,100,low,fishing prohibited
+Waigeo,Waigeo,WGO_03,M,0.4um,M04,All,68,low,fishing prohibited
+Waigeo,Waigeo,WGO_03,M,12um,M12,All,32,low,fishing prohibited
+Waigeo,Waigeo,WGO_03,M,12um,M12,All,48,low,fishing prohibited
+Waigeo,Waigeo,WGO_03,S,0.4um,S04,All,44,low,fishing prohibited
+Waigeo,Waigeo,WGO_03,S,12um,S12,All,28,low,fishing prohibited
+Waigeo,Waigeo,WGO_03,S,12um,S12,All,46,low,fishing prohibited
+Waigeo,Waigeo,WGO_04,M,0.4um,M04,All,135,low,fishing prohibited
+Waigeo,Waigeo,WGO_04,M,12um,M12,All,15,low,fishing prohibited
+Waigeo,Waigeo,WGO_04,M,12um,M12,All,51,low,fishing prohibited
+Waigeo,Waigeo,WGO_04,S,0.4um,S04,All,50,low,fishing prohibited
+Waigeo,Waigeo,WGO_04,S,12um,S12,All,10,low,fishing prohibited
+Waigeo,Waigeo,WGO_04,S,12um,S12,All,31,low,fishing prohibited
+Waigeo,Waigeo,WGO_05,M,0.4um,M04,All,111,low,fishing prohibited
+Waigeo,Waigeo,WGO_05,M,12um,M12,All,36,low,fishing prohibited
+Waigeo,Waigeo,WGO_05,M,12um,M12,All,36,low,fishing prohibited
+Waigeo,Waigeo,WGO_05,S,0.4um,S04,All,37,low,fishing prohibited
+Waigeo,Waigeo,WGO_05,S,12um,S12,All,11,low,fishing prohibited
+Waigeo,Waigeo,WGO_05,S,12um,S12,All,50,low,fishing prohibited
+Waigeo,Waigeo,WGO_06,M,0.4um,M04,All,103,low,fishing prohibited
+Waigeo,Waigeo,WGO_06,M,12um,M12,All,9,low,fishing prohibited
+Waigeo,Waigeo,WGO_06,M,12um,M12,All,37,low,fishing prohibited
+Waigeo,Waigeo,WGO_06,S,0.4um,S04,All,40,low,fishing prohibited
+Waigeo,Waigeo,WGO_06,S,12um,S12,All,33,low,fishing prohibited
+Waigeo,Waigeo,WGO_06,S,12um,S12,All,64,low,fishing prohibited
+Waigeo,Waigeo,WGO_07,M,0.4um,M04,All,39,low,fishing prohibited
+Waigeo,Waigeo,WGO_07,M,12um,M12,All,54,low,fishing prohibited
+Waigeo,Waigeo,WGO_07,M,12um,M12,All,54,low,fishing prohibited
+Waigeo,Waigeo,WGO_07,S,0.4um,S04,All,46,low,fishing prohibited
+Waigeo,Waigeo,WGO_07,S,12um,S12,All,47,low,fishing prohibited
+Waigeo,Waigeo,WGO_07,S,12um,S12,All,59,low,fishing prohibited
+Waigeo,Waigeo,WGO_08,M,0.4um,M04,All,135,low,fishing prohibited
+Waigeo,Waigeo,WGO_08,M,12um,M12,All,63,low,fishing prohibited
+Waigeo,Waigeo,WGO_08,M,12um,M12,All,84,low,fishing prohibited
+Waigeo,Waigeo,WGO_08,S,0.4um,S04,All,74,low,fishing prohibited
+Waigeo,Waigeo,WGO_08,S,12um,S12,All,33,low,fishing prohibited
+Waigeo,Waigeo,WGO_08,S,12um,S12,All,50,low,fishing prohibited
+Waigeo,Waigeo,WGO_09,M,0.4um,M04,All,87,low,fishing prohibited
+Waigeo,Waigeo,WGO_09,M,12um,M12,All,21,low,fishing prohibited
+Waigeo,Waigeo,WGO_09,M,12um,M12,All,49,low,fishing prohibited
+Waigeo,Waigeo,WGO_09,S,0.4um,S04,All,110,low,fishing prohibited
+Waigeo,Waigeo,WGO_09,S,12um,S12,All,41,low,fishing prohibited
+Waigeo,Waigeo,WGO_10,M,0.4um,M04,All,117,low,fishing prohibited
+Waigeo,Waigeo,WGO_10,M,12um,M12,All,42,low,fishing prohibited
+Waigeo,Waigeo,WGO_10,M,12um,M12,All,68,low,fishing prohibited
+Waigeo,Waigeo,WGO_10,S,0.4um,S04,All,45,low,fishing prohibited
+Waigeo,Waigeo,WGO_10,S,12um,S12,All,25,low,fishing prohibited
+Waigeo,Waigeo,WGO_10,S,12um,S12,All,113,low,fishing prohibited
+Waigeo,Waigeo,WGO_11,M,0.4um,M04,All,79,low,unrestricted fishing
+Waigeo,Waigeo,WGO_11,M,12um,M12,All,55,low,unrestricted fishing
+Waigeo,Waigeo,WGO_11,M,12um,M12,All,65,low,unrestricted fishing
+Waigeo,Waigeo,WGO_11,S,0.4um,S04,All,13,low,unrestricted fishing
+Waigeo,Waigeo,WGO_11,S,12um,S12,All,18,low,unrestricted fishing
+Waigeo,Waigeo,WGO_11,S,12um,S12,All,19,low,unrestricted fishing
+Waigeo,Waigeo,WGO_12,M,0.4um,M04,All,68,low,unrestricted fishing
+Waigeo,Waigeo,WGO_12,M,12um,M12,All,41,low,unrestricted fishing
+Waigeo,Waigeo,WGO_12,M,12um,M12,All,88,low,unrestricted fishing
+Waigeo,Waigeo,WGO_12,S,0.4um,S04,All,16,low,unrestricted fishing
+Waigeo,Waigeo,WGO_12,S,12um,S12,All,24,low,unrestricted fishing
+Waigeo,Waigeo,WGO_12,S,12um,S12,All,35,low,unrestricted fishing
+Waigeo,Waigeo,WGO_13,M,0.4um,M04,All,80,low,unrestricted fishing
+Waigeo,Waigeo,WGO_13,M,12um,M12,All,35,low,unrestricted fishing
+Waigeo,Waigeo,WGO_13,M,12um,M12,All,39,low,unrestricted fishing
+Waigeo,Waigeo,WGO_13,S,0.4um,S04,All,60,low,unrestricted fishing
+Waigeo,Waigeo,WGO_13,S,12um,S12,All,8,low,unrestricted fishing
+Waigeo,Waigeo,WGO_14,M,0.4um,M04,All,112,low,unrestricted fishing
+Waigeo,Waigeo,WGO_14,M,12um,M12,All,22,low,unrestricted fishing
+Waigeo,Waigeo,WGO_14,M,12um,M12,All,38,low,unrestricted fishing
+Waigeo,Waigeo,WGO_14,S,0.4um,S04,All,76,low,unrestricted fishing
+Waigeo,Waigeo,WGO_16,M,0.4um,M04,All,66,low,fishing prohibited
+Waigeo,Waigeo,WGO_16,M,12um,M12,All,26,low,fishing prohibited
+Waigeo,Waigeo,WGO_16,M,12um,M12,All,29,low,fishing prohibited
+Waigeo,Waigeo,WGO_16,S,0.4um,S04,All,123,low,fishing prohibited
+Waigeo,Waigeo,WGO_16,S,12um,S12,All,17,low,fishing prohibited
+Waigeo,Waigeo,WGO_17,M,0.4um,M04,All,58,low,fishing prohibited
+Waigeo,Waigeo,WGO_17,M,12um,M12,All,40,low,fishing prohibited
+Waigeo,Waigeo,WGO_17,M,12um,M12,All,53,low,fishing prohibited
+Waigeo,Waigeo,WGO_17,S,0.4um,S04,All,65,low,fishing prohibited
+Waigeo,Waigeo,WGO_17,S,12um,S12,All,31,low,fishing prohibited
+Waigeo,Waigeo,WGO_18,M,0.4um,M04,All,91,low,unrestricted fishing
+Waigeo,Waigeo,WGO_18,M,12um,M12,All,37,low,unrestricted fishing
+Waigeo,Waigeo,WGO_18,M,12um,M12,All,56,low,unrestricted fishing
+Waigeo,Waigeo,WGO_18,S,0.4um,S04,All,95,low,unrestricted fishing
+Waigeo,Waigeo,WGO_18,S,12um,S12,All,10,low,unrestricted fishing
+Waigeo,Waigeo,WGO_19,M,0.4um,M04,All,76,low,unrestricted fishing
+Waigeo,Waigeo,WGO_19,M,0.4um,M04,All,57,low,unrestricted fishing
+Waigeo,Waigeo,WGO_19,M,12um,M12,All,25,low,unrestricted fishing
+Waigeo,Waigeo,WGO_19,M,12um,M12,All,35,low,unrestricted fishing
+Waigeo,Waigeo,WGO_19,S,12um,S12,All,72,low,unrestricted fishing
+Wakatobi,Wakatobi,WK_03,M,0.4um,M04,All,143,high,unrestricted fishing
+Wakatobi,Wakatobi,WK_03,M,12um,M12,All,67,high,unrestricted fishing
+Wakatobi,Wakatobi,WK_03,S,0.4um,S04,All,167,high,unrestricted fishing
+Wakatobi,Wakatobi,WK_03,S,12um,S12,All,147,high,unrestricted fishing
+Wakatobi,Wakatobi,WK_04,M,0.4um,M04,All,108,high,unrestricted fishing
+Wakatobi,Wakatobi,WK_04,M,12um,M12,All,126,high,unrestricted fishing
+Wakatobi,Wakatobi,WK_04,S,0.4um,S04,All,135,high,unrestricted fishing
+Wakatobi,Wakatobi,WK_04,S,12um,S12,All,66,high,unrestricted fishing
+Wakatobi,Wakatobi,WK_05,M,0.4um,M04,All,8,high,unrestricted fishing
+Wakatobi,Wakatobi,WK_05,M,12um,M12,All,99,high,unrestricted fishing
+Wakatobi,Wakatobi,WK_05,S,0.4um,S04,All,147,high,unrestricted fishing
+Wakatobi,Wakatobi,WK_05,S,12um,S12,All,58,high,unrestricted fishing
+Wakatobi,Wakatobi,WK_06,M,0.4um,M04,All,102,high,unrestricted fishing
+Wakatobi,Wakatobi,WK_06,M,12um,M12,All,95,high,unrestricted fishing
+Wakatobi,Wakatobi,WK_06,S,0.4um,S04,All,122,high,unrestricted fishing
+Wakatobi,Wakatobi,WK_06,S,12um,S12,All,46,high,unrestricted fishing
+Wakatobi,Wakatobi,WK_08,M,0.4um,M04,All,77,high,unrestricted fishing
+Wakatobi,Wakatobi,WK_08,M,12um,M12,All,105,high,unrestricted fishing
+Wakatobi,Wakatobi,WK_08,S,0.4um,S04,All,128,high,unrestricted fishing
+Wakatobi,Wakatobi,WK_08,S,12um,S12,All,81,high,unrestricted fishing
+Wakatobi,Wakatobi,WK_09,M,0.4um,M04,All,114,high,unrestricted fishing
+Wakatobi,Wakatobi,WK_09,M,12um,M12,All,49,high,unrestricted fishing
+Wakatobi,Wakatobi,WK_09,S,0.4um,S04,All,162,high,unrestricted fishing
+Wakatobi,Wakatobi,WK_09,S,12um,S12,All,90,high,unrestricted fishing
+Wakatobi,Wakatobi,WK_11,M,0.4um,M04,All,128,high,unrestricted fishing
+Wakatobi,Wakatobi,WK_11,M,12um,M12,All,75,high,unrestricted fishing
+Wakatobi,Wakatobi,WK_11,S,0.4um,S04,All,141,high,unrestricted fishing
+Wakatobi,Wakatobi,WK_11,S,12um,S12,All,128,high,unrestricted fishing
+Wakatobi,Wakatobi,WK_12,M,0.4um,M04,All,148,high,unrestricted fishing
+Wakatobi,Wakatobi,WK_12,M,12um,M12,All,81,high,unrestricted fishing
+Wakatobi,Wakatobi,WK_12,S,0.4um,S04,All,154,high,unrestricted fishing
+Wakatobi,Wakatobi,WK_12,S,12um,S12,All,70,high,unrestricted fishing
+Wakatobi,Wakatobi,WK_15,M,0.4um,M04,All,83,high,unrestricted fishing
+Wakatobi,Wakatobi,WK_15,M,12um,M12,All,134,high,unrestricted fishing
+Wakatobi,Wakatobi,WK_15,S,0.4um,S04,All,91,high,unrestricted fishing
+Wakatobi,Wakatobi,WK_15,S,12um,S12,All,109,high,unrestricted fishing
+Wakatobi,Wakatobi,WK_16,M,0.4um,M04,All,105,high,unrestricted fishing
+Wakatobi,Wakatobi,WK_16,M,12um,M12,All,139,high,unrestricted fishing
+Wakatobi,Wakatobi,WK_16,S,0.4um,S04,All,135,high,unrestricted fishing
+Wakatobi,Wakatobi,WK_16,S,12um,S12,All,130,high,unrestricted fishing
+Wakatobi,Wakatobi,WK_18,M,0.4um,M04,All,153,high,unrestricted fishing
+Wakatobi,Wakatobi,WK_18,M,12um,M12,All,91,high,unrestricted fishing
+Wakatobi,Wakatobi,WK_18,S,12um,S12,All,107,high,unrestricted fishing
+Wakatobi,Wakatobi,WK_20,M,0.4um,M04,All,177,high,unrestricted fishing
+Wakatobi,Wakatobi,WK_20,M,12um,M12,All,60,high,unrestricted fishing
+Wakatobi,Wakatobi,WK_20,S,0.4um,S04,All,177,high,unrestricted fishing
+Wakatobi,Wakatobi,WK_20,S,12um,S12,All,109,high,unrestricted fishing
+Lombok,North Lombok,LBK_01,M,12um,M12,Bacillariophyta,5,low,fishing prohibited
+Lombok,North Lombok,LBK_01,S,0.4um,S04,Bacillariophyta,12,none,fishing prohibited
+Lombok,North Lombok,LBK_01,S,12um,S12,Bacillariophyta,4,low,fishing prohibited
+Lombok,North Lombok,LBK_02,M,0.4um,M04,Bacillariophyta,6,none,fishing gear restriction
+Lombok,North Lombok,LBK_02,M,12um,M12,Bacillariophyta,7,low,fishing gear restriction
+Lombok,North Lombok,LBK_02,S,0.4um,S04,Bacillariophyta,12,none,fishing gear restriction
+Lombok,North Lombok,LBK_02,S,12um,S12,Bacillariophyta,3,low,fishing gear restriction
+Lombok,North Lombok,LBK_03,M,0.4um,M04,Bacillariophyta,16,none,fishing gear restriction
+Lombok,North Lombok,LBK_03,M,12um,M12,Bacillariophyta,9,low,fishing gear restriction
+Lombok,North Lombok,LBK_03,S,0.4um,S04,Bacillariophyta,16,none,fishing gear restriction
+Lombok,North Lombok,LBK_03,S,12um,S12,Bacillariophyta,4,low,fishing gear restriction
+Lombok,North Lombok,LBK_04,M,0.4um,M04,Bacillariophyta,13,none,fishing prohibited
+Lombok,North Lombok,LBK_04,M,12um,M12,Bacillariophyta,7,low,fishing prohibited
+Lombok,North Lombok,LBK_04,S,0.4um,S04,Bacillariophyta,12,none,fishing prohibited
+Lombok,North Lombok,LBK_04,S,12um,S12,Bacillariophyta,6,low,fishing prohibited
+Lombok,North Lombok,LBK_05,M,0.4um,M04,Bacillariophyta,5,none,unrestricted fishing
+Lombok,North Lombok,LBK_05,S,0.4um,S04,Bacillariophyta,11,none,unrestricted fishing
+Lombok,North Lombok,LBK_05,S,12um,S12,Bacillariophyta,5,low,unrestricted fishing
+Lombok,North Lombok,LBK_06,M,0.4um,M04,Bacillariophyta,10,none,unrestricted fishing
+Lombok,North Lombok,LBK_06,S,0.4um,S04,Bacillariophyta,7,none,unrestricted fishing
+Lombok,North Lombok,LBK_06,S,12um,S12,Bacillariophyta,8,low,unrestricted fishing
+Lombok,South Lombok,LBK_07,M,0.4um,M04,Bacillariophyta,12,none,fishing prohibited
+Lombok,South Lombok,LBK_07,M,12um,M12,Bacillariophyta,12,low,fishing prohibited
+Lombok,South Lombok,LBK_07,S,0.4um,S04,Bacillariophyta,10,none,fishing prohibited
+Lombok,South Lombok,LBK_07,S,12um,S12,Bacillariophyta,6,low,fishing prohibited
+Lombok,South Lombok,LBK_08,M,0.4um,M04,Bacillariophyta,20,none,unrestricted fishing
+Lombok,South Lombok,LBK_08,M,12um,M12,Bacillariophyta,8,low,unrestricted fishing
+Lombok,South Lombok,LBK_08,S,0.4um,S04,Bacillariophyta,15,none,unrestricted fishing
+Lombok,South Lombok,LBK_08,S,12um,S12,Bacillariophyta,6,low,unrestricted fishing
+Lombok,South Lombok,LBK_09,M,0.4um,M04,Bacillariophyta,15,none,unrestricted fishing
+Lombok,South Lombok,LBK_09,M,12um,M12,Bacillariophyta,11,low,unrestricted fishing
+Lombok,South Lombok,LBK_09,S,0.4um,S04,Bacillariophyta,7,none,unrestricted fishing
+Lombok,South Lombok,LBK_09,S,12um,S12,Bacillariophyta,5,low,unrestricted fishing
+Lombok,South Lombok,LBK_10,M,0.4um,M04,Bacillariophyta,19,none,fishing prohibited
+Lombok,South Lombok,LBK_10,M,12um,M12,Bacillariophyta,15,low,fishing prohibited
+Lombok,South Lombok,LBK_10,S,0.4um,S04,Bacillariophyta,11,none,fishing prohibited
+Lombok,South Lombok,LBK_10,S,12um,S12,Bacillariophyta,11,low,fishing prohibited
+Lombok,South Lombok,LBK_11,M,0.4um,M04,Bacillariophyta,18,none,fishing gear restriction
+Lombok,South Lombok,LBK_11,M,12um,M12,Bacillariophyta,1,low,fishing gear restriction
+Lombok,South Lombok,LBK_11,S,0.4um,S04,Bacillariophyta,15,none,fishing gear restriction
+Lombok,South Lombok,LBK_11,S,12um,S12,Bacillariophyta,14,low,fishing gear restriction
+Lombok,South Lombok,LBK_12,M,0.4um,M04,Bacillariophyta,10,none,fishing gear restriction
+Lombok,South Lombok,LBK_12,M,12um,M12,Bacillariophyta,9,low,fishing gear restriction
+Lombok,South Lombok,LBK_12,S,0.4um,S04,Bacillariophyta,7,none,fishing gear restriction
+Lombok,South Lombok,LBK_12,S,12um,S12,Bacillariophyta,20,low,fishing gear restriction
+Lombok,North Lombok,LBK_13,M,0.4um,M04,Bacillariophyta,19,none,fishing prohibited
+Lombok,North Lombok,LBK_13,M,12um,M12,Bacillariophyta,8,low,fishing prohibited
+Lombok,North Lombok,LBK_13,S,0.4um,S04,Bacillariophyta,6,none,fishing prohibited
+Lombok,North Lombok,LBK_13,S,12um,S12,Bacillariophyta,10,low,fishing prohibited
+Lombok,North Lombok,LBK_14,M,0.4um,M04,Bacillariophyta,8,none,fishing gear restriction
+Lombok,North Lombok,LBK_14,M,12um,M12,Bacillariophyta,13,low,fishing gear restriction
+Lombok,North Lombok,LBK_14,S,0.4um,S04,Bacillariophyta,10,none,fishing gear restriction
+Lombok,North Lombok,LBK_14,S,12um,S12,Bacillariophyta,5,low,fishing gear restriction
+Lombok,North Lombok,LBK_15,M,0.4um,M04,Bacillariophyta,7,none,fishing gear restriction
+Lombok,North Lombok,LBK_15,M,12um,M12,Bacillariophyta,11,low,fishing gear restriction
+Lombok,North Lombok,LBK_15,S,0.4um,S04,Bacillariophyta,9,none,fishing gear restriction
+Lombok,North Lombok,LBK_15,S,12um,S12,Bacillariophyta,8,low,fishing gear restriction
+Lombok,North Lombok,LBK_16,M,0.4um,M04,Bacillariophyta,0,none,fishing prohibited
+Lombok,North Lombok,LBK_16,M,12um,M12,Bacillariophyta,10,low,fishing prohibited
+Lombok,North Lombok,LBK_16,S,0.4um,S04,Bacillariophyta,16,none,fishing prohibited
+Lombok,North Lombok,LBK_16,S,12um,S12,Bacillariophyta,6,low,fishing prohibited
+Lombok,North Lombok,LBK_17,M,0.4um,M04,Bacillariophyta,10,none,unrestricted fishing
+Lombok,North Lombok,LBK_17,M,12um,M12,Bacillariophyta,11,low,unrestricted fishing
+Lombok,North Lombok,LBK_17,S,0.4um,S04,Bacillariophyta,11,none,unrestricted fishing
+Lombok,North Lombok,LBK_17,S,12um,S12,Bacillariophyta,15,low,unrestricted fishing
+Lombok,North Lombok,LBK_18,M,0.4um,M04,Bacillariophyta,8,none,unrestricted fishing
+Lombok,North Lombok,LBK_18,M,12um,M12,Bacillariophyta,6,low,unrestricted fishing
+Lombok,North Lombok,LBK_18,S,12um,S12,Bacillariophyta,8,low,unrestricted fishing
+Misool,Misool,MIS_01,M,0.4um,M04,Bacillariophyta,9,none,fishing gear restriction
+Misool,Misool,MIS_01,M,0.4um,M04,Bacillariophyta,8,none,fishing gear restriction
+Misool,Misool,MIS_01,M,12um,M12,Bacillariophyta,13,low,fishing gear restriction
+Misool,Misool,MIS_01,M,12um,M12,Bacillariophyta,10,low,fishing gear restriction
+Misool,Misool,MIS_01,S,0.4um,S04,Bacillariophyta,10,none,fishing gear restriction
+Misool,Misool,MIS_01,S,0.4um,S04,Bacillariophyta,10,none,fishing gear restriction
+Misool,Misool,MIS_01,S,12um,S12,Bacillariophyta,10,low,fishing gear restriction
+Misool,Misool,MIS_01,S,12um,S12,Bacillariophyta,10,low,fishing gear restriction
+Misool,Misool,MIS_02,M,0.4um,M04,Bacillariophyta,22,none,fishing prohibited
+Misool,Misool,MIS_02,M,12um,M12,Bacillariophyta,9,low,fishing prohibited
+Misool,Misool,MIS_02,S,0.4um,S04,Bacillariophyta,4,none,fishing prohibited
+Misool,Misool,MIS_02,S,12um,S12,Bacillariophyta,20,low,fishing prohibited
+Misool,Misool,MIS_03,M,12um,M12,Bacillariophyta,12,low,fishing prohibited
+Misool,Misool,MIS_03,S,0.4um,S04,Bacillariophyta,13,none,fishing prohibited
+Misool,Misool,MIS_03,S,12um,S12,Bacillariophyta,11,low,fishing prohibited
+Misool,Misool,MIS_04,M,0.4um,M04,Bacillariophyta,18,none,fishing prohibited
+Misool,Misool,MIS_04,M,12um,M12,Bacillariophyta,10,low,fishing prohibited
+Misool,Misool,MIS_04,S,0.4um,S04,Bacillariophyta,14,none,fishing prohibited
+Misool,Misool,MIS_04,S,12um,S12,Bacillariophyta,9,low,fishing prohibited
+Misool,Misool,MIS_05,M,0.4um,M04,Bacillariophyta,15,none,fishing prohibited
+Misool,Misool,MIS_05,M,12um,M12,Bacillariophyta,13,low,fishing prohibited
+Misool,Misool,MIS_05,S,0.4um,S04,Bacillariophyta,14,none,fishing prohibited
+Misool,Misool,MIS_05,S,12um,S12,Bacillariophyta,11,low,fishing prohibited
+Misool,Misool,MIS_06,M,0.4um,M04,Bacillariophyta,14,none,fishing prohibited
+Misool,Misool,MIS_06,M,12um,M12,Bacillariophyta,12,low,fishing prohibited
+Misool,Misool,MIS_06,S,0.4um,S04,Bacillariophyta,9,none,fishing prohibited
+Misool,Misool,MIS_06,S,12um,S12,Bacillariophyta,6,low,fishing prohibited
+Misool,Misool,MIS_07,M,0.4um,M04,Bacillariophyta,18,none,fishing gear restriction
+Misool,Misool,MIS_07,M,12um,M12,Bacillariophyta,8,low,fishing gear restriction
+Misool,Misool,MIS_07,S,0.4um,S04,Bacillariophyta,12,none,fishing gear restriction
+Misool,Misool,MIS_07,S,12um,S12,Bacillariophyta,5,low,fishing gear restriction
+Misool,Misool,MIS_08,M,0.4um,M04,Bacillariophyta,14,none,fishing gear restriction
+Misool,Misool,MIS_08,M,12um,M12,Bacillariophyta,7,low,fishing gear restriction
+Misool,Misool,MIS_08,S,0.4um,S04,Bacillariophyta,12,none,fishing gear restriction
+Misool,Misool,MIS_08,S,12um,S12,Bacillariophyta,6,low,fishing gear restriction
+Misool,Misool,MIS_09,M,0.4um,M04,Bacillariophyta,19,none,fishing gear restriction
+Misool,Misool,MIS_09,M,12um,M12,Bacillariophyta,6,low,fishing gear restriction
+Misool,Misool,MIS_09,S,0.4um,S04,Bacillariophyta,12,none,fishing gear restriction
+Misool,Misool,MIS_09,S,12um,S12,Bacillariophyta,7,low,fishing gear restriction
+Misool,Misool,MIS_10,M,0.4um,M04,Bacillariophyta,13,none,fishing gear restriction
+Misool,Misool,MIS_10,M,12um,M12,Bacillariophyta,8,low,fishing gear restriction
+Misool,Misool,MIS_10,S,0.4um,S04,Bacillariophyta,11,none,fishing gear restriction
+Misool,Misool,MIS_10,S,12um,S12,Bacillariophyta,10,low,fishing gear restriction
+Misool,Misool,MIS_11,M,0.4um,M04,Bacillariophyta,18,none,fishing gear restriction
+Misool,Misool,MIS_11,M,12um,M12,Bacillariophyta,8,low,fishing gear restriction
+Misool,Misool,MIS_11,S,0.4um,S04,Bacillariophyta,12,none,fishing gear restriction
+Misool,Misool,MIS_11,S,12um,S12,Bacillariophyta,9,low,fishing gear restriction
+Misool,Misool,MIS_12,M,0.4um,M04,Bacillariophyta,21,none,fishing gear restriction
+Misool,Misool,MIS_12,M,12um,M12,Bacillariophyta,13,low,fishing gear restriction
+Misool,Misool,MIS_12,S,0.4um,S04,Bacillariophyta,18,none,fishing gear restriction
+Misool,Misool,MIS_12,S,12um,S12,Bacillariophyta,17,low,fishing gear restriction
+Misool,Misool,MIS_13,M,0.4um,M04,Bacillariophyta,26,none,fishing prohibited
+Misool,Misool,MIS_13,M,12um,M12,Bacillariophyta,8,low,fishing prohibited
+Misool,Misool,MIS_13,S,0.4um,S04,Bacillariophyta,16,none,fishing prohibited
+Misool,Misool,MIS_13,S,12um,S12,Bacillariophyta,10,low,fishing prohibited
+Misool,Misool,MIS_14,M,0.4um,M04,Bacillariophyta,9,none,fishing gear restriction
+Misool,Misool,MIS_14,M,12um,M12,Bacillariophyta,8,low,fishing gear restriction
+Misool,Misool,MIS_14,S,0.4um,S04,Bacillariophyta,13,none,fishing gear restriction
+Misool,Misool,MIS_14,S,12um,S12,Bacillariophyta,3,low,fishing gear restriction
+Misool,Misool,MIS_15,M,0.4um,M04,Bacillariophyta,4,none,fishing gear restriction
+Misool,Misool,MIS_15,M,12um,M12,Bacillariophyta,8,low,fishing gear restriction
+Misool,Misool,MIS_15,S,0.4um,S04,Bacillariophyta,4,none,fishing gear restriction
+Misool,Misool,MIS_15,S,12um,S12,Bacillariophyta,22,low,fishing gear restriction
+Misool,Misool,MIS_16,M,0.4um,M04,Bacillariophyta,8,none,fishing gear restriction
+Misool,Misool,MIS_16,M,12um,M12,Bacillariophyta,4,low,fishing gear restriction
+Misool,Misool,MIS_16,S,0.4um,S04,Bacillariophyta,12,none,fishing gear restriction
+Misool,Misool,MIS_16,S,12um,S12,Bacillariophyta,6,low,fishing gear restriction
+Misool,Misool,MIS_17,M,12um,M12,Bacillariophyta,7,low,fishing gear restriction
+Misool,Misool,MIS_17,S,0.4um,S04,Bacillariophyta,8,none,fishing gear restriction
+Misool,Misool,MIS_17,S,12um,S12,Bacillariophyta,11,low,fishing gear restriction
+Misool,Misool,MIS_18,M,0.4um,M04,Bacillariophyta,6,none,fishing prohibited
+Misool,Misool,MIS_18,M,12um,M12,Bacillariophyta,14,low,fishing prohibited
+Misool,Misool,MIS_18,S,0.4um,S04,Bacillariophyta,10,none,fishing prohibited
+Misool,Misool,MIS_18,S,12um,S12,Bacillariophyta,5,low,fishing prohibited
+Misool,Misool,MIS_19,M,0.4um,M04,Bacillariophyta,14,none,fishing prohibited
+Misool,Misool,MIS_19,M,12um,M12,Bacillariophyta,9,low,fishing prohibited
+Misool,Misool,MIS_19,S,0.4um,S04,Bacillariophyta,8,none,fishing prohibited
+Misool,Misool,MIS_19,S,12um,S12,Bacillariophyta,7,low,fishing prohibited
+Misool,Misool,MIS_20,M,0.4um,M04,Bacillariophyta,13,none,fishing prohibited
+Misool,Misool,MIS_20,M,12um,M12,Bacillariophyta,14,low,fishing prohibited
+Misool,Misool,MIS_20,S,0.4um,S04,Bacillariophyta,15,none,fishing prohibited
+Misool,Misool,MIS_20,S,12um,S12,Bacillariophyta,5,low,fishing prohibited
+Misool,Misool,MIS_21,M,0.4um,M04,Bacillariophyta,9,none,fishing prohibited
+Misool,Misool,MIS_21,M,12um,M12,Bacillariophyta,11,low,fishing prohibited
+Misool,Misool,MIS_21,S,0.4um,S04,Bacillariophyta,11,none,fishing prohibited
+Misool,Misool,MIS_21,S,12um,S12,Bacillariophyta,21,low,fishing prohibited
+Waigeo,Waigeo,WGO_01,M,0.4um,M04,Bacillariophyta,15,none,fishing prohibited
+Waigeo,Waigeo,WGO_01,M,0.4um,M04,Bacillariophyta,9,none,fishing prohibited
+Waigeo,Waigeo,WGO_01,M,12um,M12,Bacillariophyta,5,high,fishing prohibited
+Waigeo,Waigeo,WGO_01,M,12um,M12,Bacillariophyta,23,high,fishing prohibited
+Waigeo,Waigeo,WGO_01,S,0.4um,S04,Bacillariophyta,4,none,fishing prohibited
+Waigeo,Waigeo,WGO_01,S,12um,S12,Bacillariophyta,6,high,fishing prohibited
+Waigeo,Waigeo,WGO_01,S,12um,S12,Bacillariophyta,17,high,fishing prohibited
+Waigeo,Waigeo,WGO_02,M,0.4um,M04,Bacillariophyta,5,none,fishing prohibited
+Waigeo,Waigeo,WGO_02,M,0.4um,M04,Bacillariophyta,18,none,fishing prohibited
+Waigeo,Waigeo,WGO_02,M,12um,M12,Bacillariophyta,16,high,fishing prohibited
+Waigeo,Waigeo,WGO_02,M,12um,M12,Bacillariophyta,5,high,fishing prohibited
+Waigeo,Waigeo,WGO_02,S,0.4um,S04,Bacillariophyta,11,none,fishing prohibited
+Waigeo,Waigeo,WGO_02,S,0.4um,S04,Bacillariophyta,11,none,fishing prohibited
+Waigeo,Waigeo,WGO_02,S,12um,S12,Bacillariophyta,16,high,fishing prohibited
+Waigeo,Waigeo,WGO_02,S,12um,S12,Bacillariophyta,10,high,fishing prohibited
+Waigeo,Waigeo,WGO_03,M,0.4um,M04,Bacillariophyta,4,none,fishing prohibited
+Waigeo,Waigeo,WGO_03,M,12um,M12,Bacillariophyta,15,high,fishing prohibited
+Waigeo,Waigeo,WGO_03,M,12um,M12,Bacillariophyta,19,high,fishing prohibited
+Waigeo,Waigeo,WGO_03,S,0.4um,S04,Bacillariophyta,19,none,fishing prohibited
+Waigeo,Waigeo,WGO_03,S,12um,S12,Bacillariophyta,7,high,fishing prohibited
+Waigeo,Waigeo,WGO_03,S,12um,S12,Bacillariophyta,18,high,fishing prohibited
+Waigeo,Waigeo,WGO_04,M,0.4um,M04,Bacillariophyta,7,none,fishing prohibited
+Waigeo,Waigeo,WGO_04,M,12um,M12,Bacillariophyta,5,high,fishing prohibited
+Waigeo,Waigeo,WGO_04,M,12um,M12,Bacillariophyta,9,high,fishing prohibited
+Waigeo,Waigeo,WGO_04,S,0.4um,S04,Bacillariophyta,12,none,fishing prohibited
+Waigeo,Waigeo,WGO_04,S,12um,S12,Bacillariophyta,11,high,fishing prohibited
+Waigeo,Waigeo,WGO_04,S,12um,S12,Bacillariophyta,15,high,fishing prohibited
+Waigeo,Waigeo,WGO_05,M,0.4um,M04,Bacillariophyta,6,none,fishing prohibited
+Waigeo,Waigeo,WGO_05,M,12um,M12,Bacillariophyta,4,high,fishing prohibited
+Waigeo,Waigeo,WGO_05,M,12um,M12,Bacillariophyta,16,high,fishing prohibited
+Waigeo,Waigeo,WGO_05,S,0.4um,S04,Bacillariophyta,11,none,fishing prohibited
+Waigeo,Waigeo,WGO_05,S,12um,S12,Bacillariophyta,3,high,fishing prohibited
+Waigeo,Waigeo,WGO_05,S,12um,S12,Bacillariophyta,23,high,fishing prohibited
+Waigeo,Waigeo,WGO_06,M,0.4um,M04,Bacillariophyta,5,none,fishing prohibited
+Waigeo,Waigeo,WGO_06,M,12um,M12,Bacillariophyta,15,high,fishing prohibited
+Waigeo,Waigeo,WGO_06,M,12um,M12,Bacillariophyta,22,high,fishing prohibited
+Waigeo,Waigeo,WGO_06,S,0.4um,S04,Bacillariophyta,7,none,fishing prohibited
+Waigeo,Waigeo,WGO_06,S,12um,S12,Bacillariophyta,21,high,fishing prohibited
+Waigeo,Waigeo,WGO_06,S,12um,S12,Bacillariophyta,22,high,fishing prohibited
+Waigeo,Waigeo,WGO_07,M,0.4um,M04,Bacillariophyta,3,none,fishing prohibited
+Waigeo,Waigeo,WGO_07,M,12um,M12,Bacillariophyta,21,high,fishing prohibited
+Waigeo,Waigeo,WGO_07,M,12um,M12,Bacillariophyta,26,high,fishing prohibited
+Waigeo,Waigeo,WGO_07,S,0.4um,S04,Bacillariophyta,19,none,fishing prohibited
+Waigeo,Waigeo,WGO_07,S,12um,S12,Bacillariophyta,25,high,fishing prohibited
+Waigeo,Waigeo,WGO_07,S,12um,S12,Bacillariophyta,21,high,fishing prohibited
+Waigeo,Waigeo,WGO_08,M,0.4um,M04,Bacillariophyta,9,none,fishing prohibited
+Waigeo,Waigeo,WGO_08,M,12um,M12,Bacillariophyta,13,high,fishing prohibited
+Waigeo,Waigeo,WGO_08,M,12um,M12,Bacillariophyta,11,high,fishing prohibited
+Waigeo,Waigeo,WGO_08,S,0.4um,S04,Bacillariophyta,8,none,fishing prohibited
+Waigeo,Waigeo,WGO_08,S,12um,S12,Bacillariophyta,15,high,fishing prohibited
+Waigeo,Waigeo,WGO_08,S,12um,S12,Bacillariophyta,16,high,fishing prohibited
+Waigeo,Waigeo,WGO_09,M,0.4um,M04,Bacillariophyta,9,none,fishing prohibited
+Waigeo,Waigeo,WGO_09,M,12um,M12,Bacillariophyta,16,high,fishing prohibited
+Waigeo,Waigeo,WGO_09,M,12um,M12,Bacillariophyta,23,high,fishing prohibited
+Waigeo,Waigeo,WGO_09,S,0.4um,S04,Bacillariophyta,9,none,fishing prohibited
+Waigeo,Waigeo,WGO_09,S,12um,S12,Bacillariophyta,14,high,fishing prohibited
+Waigeo,Waigeo,WGO_10,M,0.4um,M04,Bacillariophyta,5,none,fishing prohibited
+Waigeo,Waigeo,WGO_10,M,12um,M12,Bacillariophyta,3,high,fishing prohibited
+Waigeo,Waigeo,WGO_10,M,12um,M12,Bacillariophyta,17,high,fishing prohibited
+Waigeo,Waigeo,WGO_10,S,0.4um,S04,Bacillariophyta,9,none,fishing prohibited
+Waigeo,Waigeo,WGO_10,S,12um,S12,Bacillariophyta,18,high,fishing prohibited
+Waigeo,Waigeo,WGO_10,S,12um,S12,Bacillariophyta,8,high,fishing prohibited
+Waigeo,Waigeo,WGO_11,M,0.4um,M04,Bacillariophyta,7,none,unrestricted fishing
+Waigeo,Waigeo,WGO_11,M,12um,M12,Bacillariophyta,2,high,unrestricted fishing
+Waigeo,Waigeo,WGO_11,M,12um,M12,Bacillariophyta,17,high,unrestricted fishing
+Waigeo,Waigeo,WGO_11,S,0.4um,S04,Bacillariophyta,7,none,unrestricted fishing
+Waigeo,Waigeo,WGO_11,S,12um,S12,Bacillariophyta,13,high,unrestricted fishing
+Waigeo,Waigeo,WGO_11,S,12um,S12,Bacillariophyta,17,high,unrestricted fishing
+Waigeo,Waigeo,WGO_12,M,0.4um,M04,Bacillariophyta,4,none,unrestricted fishing
+Waigeo,Waigeo,WGO_12,M,12um,M12,Bacillariophyta,11,high,unrestricted fishing
+Waigeo,Waigeo,WGO_12,M,12um,M12,Bacillariophyta,11,high,unrestricted fishing
+Waigeo,Waigeo,WGO_12,S,0.4um,S04,Bacillariophyta,4,none,unrestricted fishing
+Waigeo,Waigeo,WGO_12,S,12um,S12,Bacillariophyta,4,high,unrestricted fishing
+Waigeo,Waigeo,WGO_12,S,12um,S12,Bacillariophyta,18,high,unrestricted fishing
+Waigeo,Waigeo,WGO_13,M,0.4um,M04,Bacillariophyta,11,none,unrestricted fishing
+Waigeo,Waigeo,WGO_13,M,12um,M12,Bacillariophyta,12,high,unrestricted fishing
+Waigeo,Waigeo,WGO_13,M,12um,M12,Bacillariophyta,16,high,unrestricted fishing
+Waigeo,Waigeo,WGO_13,S,0.4um,S04,Bacillariophyta,1,none,unrestricted fishing
+Waigeo,Waigeo,WGO_13,S,12um,S12,Bacillariophyta,7,high,unrestricted fishing
+Waigeo,Waigeo,WGO_14,M,0.4um,M04,Bacillariophyta,9,none,unrestricted fishing
+Waigeo,Waigeo,WGO_14,M,12um,M12,Bacillariophyta,15,high,unrestricted fishing
+Waigeo,Waigeo,WGO_14,M,12um,M12,Bacillariophyta,19,high,unrestricted fishing
+Waigeo,Waigeo,WGO_14,S,0.4um,S04,Bacillariophyta,7,none,unrestricted fishing
+Waigeo,Waigeo,WGO_16,M,0.4um,M04,Bacillariophyta,8,none,fishing prohibited
+Waigeo,Waigeo,WGO_16,M,12um,M12,Bacillariophyta,3,high,fishing prohibited
+Waigeo,Waigeo,WGO_16,M,12um,M12,Bacillariophyta,24,high,fishing prohibited
+Waigeo,Waigeo,WGO_16,S,0.4um,S04,Bacillariophyta,12,none,fishing prohibited
+Waigeo,Waigeo,WGO_16,S,12um,S12,Bacillariophyta,13,high,fishing prohibited
+Waigeo,Waigeo,WGO_17,M,0.4um,M04,Bacillariophyta,12,none,fishing prohibited
+Waigeo,Waigeo,WGO_17,M,12um,M12,Bacillariophyta,19,high,fishing prohibited
+Waigeo,Waigeo,WGO_17,M,12um,M12,Bacillariophyta,22,high,fishing prohibited
+Waigeo,Waigeo,WGO_17,S,0.4um,S04,Bacillariophyta,14,none,fishing prohibited
+Waigeo,Waigeo,WGO_17,S,12um,S12,Bacillariophyta,14,high,fishing prohibited
+Waigeo,Waigeo,WGO_18,M,0.4um,M04,Bacillariophyta,16,none,unrestricted fishing
+Waigeo,Waigeo,WGO_18,M,12um,M12,Bacillariophyta,6,high,unrestricted fishing
+Waigeo,Waigeo,WGO_18,M,12um,M12,Bacillariophyta,7,high,unrestricted fishing
+Waigeo,Waigeo,WGO_18,S,0.4um,S04,Bacillariophyta,8,none,unrestricted fishing
+Waigeo,Waigeo,WGO_18,S,12um,S12,Bacillariophyta,12,high,unrestricted fishing
+Waigeo,Waigeo,WGO_19,M,0.4um,M04,Bacillariophyta,8,none,unrestricted fishing
+Waigeo,Waigeo,WGO_19,M,0.4um,M04,Bacillariophyta,23,none,unrestricted fishing
+Waigeo,Waigeo,WGO_19,M,12um,M12,Bacillariophyta,9,high,unrestricted fishing
+Waigeo,Waigeo,WGO_19,M,12um,M12,Bacillariophyta,23,high,unrestricted fishing
+Waigeo,Waigeo,WGO_19,S,12um,S12,Bacillariophyta,14,high,unrestricted fishing
+Wakatobi,Wakatobi,WK_03,M,0.4um,M04,Bacillariophyta,17,none,unrestricted fishing
+Wakatobi,Wakatobi,WK_03,M,12um,M12,Bacillariophyta,17,high,unrestricted fishing
+Wakatobi,Wakatobi,WK_03,S,0.4um,S04,Bacillariophyta,19,none,unrestricted fishing
+Wakatobi,Wakatobi,WK_03,S,12um,S12,Bacillariophyta,9,low,unrestricted fishing
+Wakatobi,Wakatobi,WK_04,M,0.4um,M04,Bacillariophyta,13,none,unrestricted fishing
+Wakatobi,Wakatobi,WK_04,M,12um,M12,Bacillariophyta,10,high,unrestricted fishing
+Wakatobi,Wakatobi,WK_04,S,0.4um,S04,Bacillariophyta,7,none,unrestricted fishing
+Wakatobi,Wakatobi,WK_04,S,12um,S12,Bacillariophyta,1,low,unrestricted fishing
+Wakatobi,Wakatobi,WK_05,M,0.4um,M04,Bacillariophyta,18,none,unrestricted fishing
+Wakatobi,Wakatobi,WK_05,M,12um,M12,Bacillariophyta,13,high,unrestricted fishing
+Wakatobi,Wakatobi,WK_05,S,0.4um,S04,Bacillariophyta,11,none,unrestricted fishing
+Wakatobi,Wakatobi,WK_05,S,12um,S12,Bacillariophyta,11,low,unrestricted fishing
+Wakatobi,Wakatobi,WK_06,M,0.4um,M04,Bacillariophyta,22,none,unrestricted fishing
+Wakatobi,Wakatobi,WK_06,M,12um,M12,Bacillariophyta,10,high,unrestricted fishing
+Wakatobi,Wakatobi,WK_06,S,0.4um,S04,Bacillariophyta,7,none,unrestricted fishing
+Wakatobi,Wakatobi,WK_06,S,12um,S12,Bacillariophyta,7,low,unrestricted fishing
+Wakatobi,Wakatobi,WK_08,M,0.4um,M04,Bacillariophyta,22,none,unrestricted fishing
+Wakatobi,Wakatobi,WK_08,M,12um,M12,Bacillariophyta,14,high,unrestricted fishing
+Wakatobi,Wakatobi,WK_08,S,0.4um,S04,Bacillariophyta,7,none,unrestricted fishing
+Wakatobi,Wakatobi,WK_08,S,12um,S12,Bacillariophyta,5,low,unrestricted fishing
+Wakatobi,Wakatobi,WK_09,M,0.4um,M04,Bacillariophyta,9,none,unrestricted fishing
+Wakatobi,Wakatobi,WK_09,M,12um,M12,Bacillariophyta,9,high,unrestricted fishing
+Wakatobi,Wakatobi,WK_09,S,0.4um,S04,Bacillariophyta,18,none,unrestricted fishing
+Wakatobi,Wakatobi,WK_09,S,12um,S12,Bacillariophyta,8,low,unrestricted fishing
+Wakatobi,Wakatobi,WK_11,M,0.4um,M04,Bacillariophyta,13,none,unrestricted fishing
+Wakatobi,Wakatobi,WK_11,M,12um,M12,Bacillariophyta,15,high,unrestricted fishing
+Wakatobi,Wakatobi,WK_11,S,0.4um,S04,Bacillariophyta,13,none,unrestricted fishing
+Wakatobi,Wakatobi,WK_11,S,12um,S12,Bacillariophyta,21,low,unrestricted fishing
+Wakatobi,Wakatobi,WK_12,M,0.4um,M04,Bacillariophyta,10,none,unrestricted fishing
+Wakatobi,Wakatobi,WK_12,M,12um,M12,Bacillariophyta,14,high,unrestricted fishing
+Wakatobi,Wakatobi,WK_12,S,0.4um,S04,Bacillariophyta,15,none,unrestricted fishing
+Wakatobi,Wakatobi,WK_12,S,12um,S12,Bacillariophyta,1,low,unrestricted fishing
+Wakatobi,Wakatobi,WK_15,M,0.4um,M04,Bacillariophyta,4,none,unrestricted fishing
+Wakatobi,Wakatobi,WK_15,M,12um,M12,Bacillariophyta,10,high,unrestricted fishing
+Wakatobi,Wakatobi,WK_15,S,0.4um,S04,Bacillariophyta,5,none,unrestricted fishing
+Wakatobi,Wakatobi,WK_15,S,12um,S12,Bacillariophyta,14,low,unrestricted fishing
+Wakatobi,Wakatobi,WK_16,M,0.4um,M04,Bacillariophyta,8,none,unrestricted fishing
+Wakatobi,Wakatobi,WK_16,M,12um,M12,Bacillariophyta,13,high,unrestricted fishing
+Wakatobi,Wakatobi,WK_16,S,0.4um,S04,Bacillariophyta,5,none,unrestricted fishing
+Wakatobi,Wakatobi,WK_16,S,12um,S12,Bacillariophyta,13,low,unrestricted fishing
+Wakatobi,Wakatobi,WK_18,M,0.4um,M04,Bacillariophyta,8,none,unrestricted fishing
+Wakatobi,Wakatobi,WK_18,M,12um,M12,Bacillariophyta,18,high,unrestricted fishing
+Wakatobi,Wakatobi,WK_18,S,12um,S12,Bacillariophyta,11,low,unrestricted fishing
+Wakatobi,Wakatobi,WK_20,M,0.4um,M04,Bacillariophyta,9,none,unrestricted fishing
+Wakatobi,Wakatobi,WK_20,M,12um,M12,Bacillariophyta,6,high,unrestricted fishing
+Wakatobi,Wakatobi,WK_20,S,0.4um,S04,Bacillariophyta,15,none,unrestricted fishing
+Wakatobi,Wakatobi,WK_20,S,12um,S12,Bacillariophyta,9,low,unrestricted fishing
+Lombok,North Lombok,LBK_01,M,12um,M12,Dinoflagellata,10,high,fishing prohibited
+Lombok,North Lombok,LBK_01,S,0.4um,S04,Dinoflagellata,6,low,fishing prohibited
+Lombok,North Lombok,LBK_01,S,12um,S12,Dinoflagellata,30,high,fishing prohibited
+Lombok,North Lombok,LBK_02,M,0.4um,M04,Dinoflagellata,44,high,fishing gear restriction
+Lombok,North Lombok,LBK_02,M,12um,M12,Dinoflagellata,18,high,fishing gear restriction
+Lombok,North Lombok,LBK_02,S,0.4um,S04,Dinoflagellata,44,low,fishing gear restriction
+Lombok,North Lombok,LBK_02,S,12um,S12,Dinoflagellata,33,high,fishing gear restriction
+Lombok,North Lombok,LBK_03,M,0.4um,M04,Dinoflagellata,49,high,fishing gear restriction
+Lombok,North Lombok,LBK_03,M,12um,M12,Dinoflagellata,25,high,fishing gear restriction
+Lombok,North Lombok,LBK_03,S,0.4um,S04,Dinoflagellata,37,low,fishing gear restriction
+Lombok,North Lombok,LBK_03,S,12um,S12,Dinoflagellata,43,high,fishing gear restriction
+Lombok,North Lombok,LBK_04,M,0.4um,M04,Dinoflagellata,49,high,fishing prohibited
+Lombok,North Lombok,LBK_04,M,12um,M12,Dinoflagellata,16,high,fishing prohibited
+Lombok,North Lombok,LBK_04,S,0.4um,S04,Dinoflagellata,26,low,fishing prohibited
+Lombok,North Lombok,LBK_04,S,12um,S12,Dinoflagellata,21,high,fishing prohibited
+Lombok,North Lombok,LBK_05,M,0.4um,M04,Dinoflagellata,54,high,unrestricted fishing
+Lombok,North Lombok,LBK_05,S,0.4um,S04,Dinoflagellata,20,low,unrestricted fishing
+Lombok,North Lombok,LBK_05,S,12um,S12,Dinoflagellata,21,high,unrestricted fishing
+Lombok,North Lombok,LBK_06,M,0.4um,M04,Dinoflagellata,49,high,unrestricted fishing
+Lombok,North Lombok,LBK_06,S,0.4um,S04,Dinoflagellata,17,low,unrestricted fishing
+Lombok,North Lombok,LBK_06,S,12um,S12,Dinoflagellata,18,high,unrestricted fishing
+Lombok,South Lombok,LBK_07,M,0.4um,M04,Dinoflagellata,25,high,fishing prohibited
+Lombok,South Lombok,LBK_07,M,12um,M12,Dinoflagellata,11,high,fishing prohibited
+Lombok,South Lombok,LBK_07,S,0.4um,S04,Dinoflagellata,24,low,fishing prohibited
+Lombok,South Lombok,LBK_07,S,12um,S12,Dinoflagellata,23,high,fishing prohibited
+Lombok,South Lombok,LBK_08,M,0.4um,M04,Dinoflagellata,37,high,unrestricted fishing
+Lombok,South Lombok,LBK_08,M,12um,M12,Dinoflagellata,29,high,unrestricted fishing
+Lombok,South Lombok,LBK_08,S,0.4um,S04,Dinoflagellata,21,low,unrestricted fishing
+Lombok,South Lombok,LBK_08,S,12um,S12,Dinoflagellata,27,high,unrestricted fishing
+Lombok,South Lombok,LBK_09,M,0.4um,M04,Dinoflagellata,30,high,unrestricted fishing
+Lombok,South Lombok,LBK_09,M,12um,M12,Dinoflagellata,19,high,unrestricted fishing
+Lombok,South Lombok,LBK_09,S,0.4um,S04,Dinoflagellata,30,low,unrestricted fishing
+Lombok,South Lombok,LBK_09,S,12um,S12,Dinoflagellata,24,high,unrestricted fishing
+Lombok,South Lombok,LBK_10,M,0.4um,M04,Dinoflagellata,29,high,fishing prohibited
+Lombok,South Lombok,LBK_10,M,12um,M12,Dinoflagellata,22,high,fishing prohibited
+Lombok,South Lombok,LBK_10,S,0.4um,S04,Dinoflagellata,23,low,fishing prohibited
+Lombok,South Lombok,LBK_10,S,12um,S12,Dinoflagellata,36,high,fishing prohibited
+Lombok,South Lombok,LBK_11,M,0.4um,M04,Dinoflagellata,38,high,fishing gear restriction
+Lombok,South Lombok,LBK_11,M,12um,M12,Dinoflagellata,18,high,fishing gear restriction
+Lombok,South Lombok,LBK_11,S,0.4um,S04,Dinoflagellata,25,low,fishing gear restriction
+Lombok,South Lombok,LBK_11,S,12um,S12,Dinoflagellata,24,high,fishing gear restriction
+Lombok,South Lombok,LBK_12,M,0.4um,M04,Dinoflagellata,41,high,fishing gear restriction
+Lombok,South Lombok,LBK_12,M,12um,M12,Dinoflagellata,17,high,fishing gear restriction
+Lombok,South Lombok,LBK_12,S,0.4um,S04,Dinoflagellata,20,low,fishing gear restriction
+Lombok,South Lombok,LBK_12,S,12um,S12,Dinoflagellata,34,high,fishing gear restriction
+Lombok,North Lombok,LBK_13,M,0.4um,M04,Dinoflagellata,44,high,fishing prohibited
+Lombok,North Lombok,LBK_13,M,12um,M12,Dinoflagellata,24,high,fishing prohibited
+Lombok,North Lombok,LBK_13,S,0.4um,S04,Dinoflagellata,10,low,fishing prohibited
+Lombok,North Lombok,LBK_13,S,12um,S12,Dinoflagellata,7,high,fishing prohibited
+Lombok,North Lombok,LBK_14,M,0.4um,M04,Dinoflagellata,44,high,fishing gear restriction
+Lombok,North Lombok,LBK_14,M,12um,M12,Dinoflagellata,14,high,fishing gear restriction
+Lombok,North Lombok,LBK_14,S,0.4um,S04,Dinoflagellata,24,low,fishing gear restriction
+Lombok,North Lombok,LBK_14,S,12um,S12,Dinoflagellata,20,high,fishing gear restriction
+Lombok,North Lombok,LBK_15,M,0.4um,M04,Dinoflagellata,49,high,fishing gear restriction
+Lombok,North Lombok,LBK_15,M,12um,M12,Dinoflagellata,8,high,fishing gear restriction
+Lombok,North Lombok,LBK_15,S,0.4um,S04,Dinoflagellata,48,low,fishing gear restriction
+Lombok,North Lombok,LBK_15,S,12um,S12,Dinoflagellata,17,high,fishing gear restriction
+Lombok,North Lombok,LBK_16,M,0.4um,M04,Dinoflagellata,37,high,fishing prohibited
+Lombok,North Lombok,LBK_16,M,12um,M12,Dinoflagellata,12,high,fishing prohibited
+Lombok,North Lombok,LBK_16,S,0.4um,S04,Dinoflagellata,22,low,fishing prohibited
+Lombok,North Lombok,LBK_16,S,12um,S12,Dinoflagellata,13,high,fishing prohibited
+Lombok,North Lombok,LBK_17,M,0.4um,M04,Dinoflagellata,12,high,unrestricted fishing
+Lombok,North Lombok,LBK_17,M,12um,M12,Dinoflagellata,40,high,unrestricted fishing
+Lombok,North Lombok,LBK_17,S,0.4um,S04,Dinoflagellata,26,low,unrestricted fishing
+Lombok,North Lombok,LBK_17,S,12um,S12,Dinoflagellata,10,high,unrestricted fishing
+Lombok,North Lombok,LBK_18,M,0.4um,M04,Dinoflagellata,32,high,unrestricted fishing
+Lombok,North Lombok,LBK_18,M,12um,M12,Dinoflagellata,18,high,unrestricted fishing
+Lombok,North Lombok,LBK_18,S,12um,S12,Dinoflagellata,17,high,unrestricted fishing
+Misool,Misool,MIS_01,M,0.4um,M04,Dinoflagellata,36,high,fishing gear restriction
+Misool,Misool,MIS_01,M,0.4um,M04,Dinoflagellata,42,high,fishing gear restriction
+Misool,Misool,MIS_01,M,12um,M12,Dinoflagellata,15,high,fishing gear restriction
+Misool,Misool,MIS_01,M,12um,M12,Dinoflagellata,41,high,fishing gear restriction
+Misool,Misool,MIS_01,S,0.4um,S04,Dinoflagellata,39,high,fishing gear restriction
+Misool,Misool,MIS_01,S,0.4um,S04,Dinoflagellata,43,high,fishing gear restriction
+Misool,Misool,MIS_01,S,12um,S12,Dinoflagellata,24,high,fishing gear restriction
+Misool,Misool,MIS_01,S,12um,S12,Dinoflagellata,11,high,fishing gear restriction
+Misool,Misool,MIS_02,M,0.4um,M04,Dinoflagellata,38,high,fishing prohibited
+Misool,Misool,MIS_02,M,12um,M12,Dinoflagellata,22,high,fishing prohibited
+Misool,Misool,MIS_02,S,0.4um,S04,Dinoflagellata,29,high,fishing prohibited
+Misool,Misool,MIS_02,S,12um,S12,Dinoflagellata,8,high,fishing prohibited
+Misool,Misool,MIS_03,M,12um,M12,Dinoflagellata,23,high,fishing prohibited
+Misool,Misool,MIS_03,S,0.4um,S04,Dinoflagellata,41,high,fishing prohibited
+Misool,Misool,MIS_03,S,12um,S12,Dinoflagellata,35,high,fishing prohibited
+Misool,Misool,MIS_04,M,0.4um,M04,Dinoflagellata,54,high,fishing prohibited
+Misool,Misool,MIS_04,M,12um,M12,Dinoflagellata,20,high,fishing prohibited
+Misool,Misool,MIS_04,S,0.4um,S04,Dinoflagellata,28,high,fishing prohibited
+Misool,Misool,MIS_04,S,12um,S12,Dinoflagellata,40,high,fishing prohibited
+Misool,Misool,MIS_05,M,0.4um,M04,Dinoflagellata,45,high,fishing prohibited
+Misool,Misool,MIS_05,M,12um,M12,Dinoflagellata,17,high,fishing prohibited
+Misool,Misool,MIS_05,S,0.4um,S04,Dinoflagellata,54,high,fishing prohibited
+Misool,Misool,MIS_05,S,12um,S12,Dinoflagellata,37,high,fishing prohibited
+Misool,Misool,MIS_06,M,0.4um,M04,Dinoflagellata,42,high,fishing prohibited
+Misool,Misool,MIS_06,M,12um,M12,Dinoflagellata,15,high,fishing prohibited
+Misool,Misool,MIS_06,S,0.4um,S04,Dinoflagellata,37,high,fishing prohibited
+Misool,Misool,MIS_06,S,12um,S12,Dinoflagellata,23,high,fishing prohibited
+Misool,Misool,MIS_07,M,0.4um,M04,Dinoflagellata,57,high,fishing gear restriction
+Misool,Misool,MIS_07,M,12um,M12,Dinoflagellata,29,high,fishing gear restriction
+Misool,Misool,MIS_07,S,0.4um,S04,Dinoflagellata,31,high,fishing gear restriction
+Misool,Misool,MIS_07,S,12um,S12,Dinoflagellata,30,high,fishing gear restriction
+Misool,Misool,MIS_08,M,0.4um,M04,Dinoflagellata,43,high,fishing gear restriction
+Misool,Misool,MIS_08,M,12um,M12,Dinoflagellata,18,high,fishing gear restriction
+Misool,Misool,MIS_08,S,0.4um,S04,Dinoflagellata,34,high,fishing gear restriction
+Misool,Misool,MIS_08,S,12um,S12,Dinoflagellata,28,high,fishing gear restriction
+Misool,Misool,MIS_09,M,0.4um,M04,Dinoflagellata,41,high,fishing gear restriction
+Misool,Misool,MIS_09,M,12um,M12,Dinoflagellata,14,high,fishing gear restriction
+Misool,Misool,MIS_09,S,0.4um,S04,Dinoflagellata,30,high,fishing gear restriction
+Misool,Misool,MIS_09,S,12um,S12,Dinoflagellata,27,high,fishing gear restriction
+Misool,Misool,MIS_10,M,0.4um,M04,Dinoflagellata,36,high,fishing gear restriction
+Misool,Misool,MIS_10,M,12um,M12,Dinoflagellata,23,high,fishing gear restriction
+Misool,Misool,MIS_10,S,0.4um,S04,Dinoflagellata,20,high,fishing gear restriction
+Misool,Misool,MIS_10,S,12um,S12,Dinoflagellata,30,high,fishing gear restriction
+Misool,Misool,MIS_11,M,0.4um,M04,Dinoflagellata,48,high,fishing gear restriction
+Misool,Misool,MIS_11,M,12um,M12,Dinoflagellata,25,high,fishing gear restriction
+Misool,Misool,MIS_11,S,0.4um,S04,Dinoflagellata,42,high,fishing gear restriction
+Misool,Misool,MIS_11,S,12um,S12,Dinoflagellata,40,high,fishing gear restriction
+Misool,Misool,MIS_12,M,0.4um,M04,Dinoflagellata,38,high,fishing gear restriction
+Misool,Misool,MIS_12,M,12um,M12,Dinoflagellata,27,high,fishing gear restriction
+Misool,Misool,MIS_12,S,0.4um,S04,Dinoflagellata,40,high,fishing gear restriction
+Misool,Misool,MIS_12,S,12um,S12,Dinoflagellata,41,high,fishing gear restriction
+Misool,Misool,MIS_13,M,0.4um,M04,Dinoflagellata,54,high,fishing prohibited
+Misool,Misool,MIS_13,M,12um,M12,Dinoflagellata,42,high,fishing prohibited
+Misool,Misool,MIS_13,S,0.4um,S04,Dinoflagellata,32,high,fishing prohibited
+Misool,Misool,MIS_13,S,12um,S12,Dinoflagellata,31,high,fishing prohibited
+Misool,Misool,MIS_14,M,0.4um,M04,Dinoflagellata,7,high,fishing gear restriction
+Misool,Misool,MIS_14,M,12um,M12,Dinoflagellata,45,high,fishing gear restriction
+Misool,Misool,MIS_14,S,0.4um,S04,Dinoflagellata,28,high,fishing gear restriction
+Misool,Misool,MIS_14,S,12um,S12,Dinoflagellata,37,high,fishing gear restriction
+Misool,Misool,MIS_15,M,0.4um,M04,Dinoflagellata,33,high,fishing gear restriction
+Misool,Misool,MIS_15,M,12um,M12,Dinoflagellata,17,high,fishing gear restriction
+Misool,Misool,MIS_15,S,0.4um,S04,Dinoflagellata,27,high,fishing gear restriction
+Misool,Misool,MIS_15,S,12um,S12,Dinoflagellata,18,high,fishing gear restriction
+Misool,Misool,MIS_16,M,0.4um,M04,Dinoflagellata,37,high,fishing gear restriction
+Misool,Misool,MIS_16,M,12um,M12,Dinoflagellata,29,high,fishing gear restriction
+Misool,Misool,MIS_16,S,0.4um,S04,Dinoflagellata,11,high,fishing gear restriction
+Misool,Misool,MIS_16,S,12um,S12,Dinoflagellata,8,high,fishing gear restriction
+Misool,Misool,MIS_17,M,12um,M12,Dinoflagellata,59,high,fishing gear restriction
+Misool,Misool,MIS_17,S,0.4um,S04,Dinoflagellata,33,high,fishing gear restriction
+Misool,Misool,MIS_17,S,12um,S12,Dinoflagellata,22,high,fishing gear restriction
+Misool,Misool,MIS_18,M,0.4um,M04,Dinoflagellata,52,high,fishing prohibited
+Misool,Misool,MIS_18,M,12um,M12,Dinoflagellata,35,high,fishing prohibited
+Misool,Misool,MIS_18,S,0.4um,S04,Dinoflagellata,46,high,fishing prohibited
+Misool,Misool,MIS_18,S,12um,S12,Dinoflagellata,39,high,fishing prohibited
+Misool,Misool,MIS_19,M,0.4um,M04,Dinoflagellata,35,high,fishing prohibited
+Misool,Misool,MIS_19,M,12um,M12,Dinoflagellata,52,high,fishing prohibited
+Misool,Misool,MIS_19,S,0.4um,S04,Dinoflagellata,14,high,fishing prohibited
+Misool,Misool,MIS_19,S,12um,S12,Dinoflagellata,17,high,fishing prohibited
+Misool,Misool,MIS_20,M,0.4um,M04,Dinoflagellata,40,high,fishing prohibited
+Misool,Misool,MIS_20,M,12um,M12,Dinoflagellata,17,high,fishing prohibited
+Misool,Misool,MIS_20,S,0.4um,S04,Dinoflagellata,46,high,fishing prohibited
+Misool,Misool,MIS_20,S,12um,S12,Dinoflagellata,35,high,fishing prohibited
+Misool,Misool,MIS_21,M,0.4um,M04,Dinoflagellata,47,high,fishing prohibited
+Misool,Misool,MIS_21,M,12um,M12,Dinoflagellata,43,high,fishing prohibited
+Misool,Misool,MIS_21,S,0.4um,S04,Dinoflagellata,35,high,fishing prohibited
+Misool,Misool,MIS_21,S,12um,S12,Dinoflagellata,46,high,fishing prohibited
+Waigeo,Waigeo,WGO_01,M,0.4um,M04,Dinoflagellata,13,low,fishing prohibited
+Waigeo,Waigeo,WGO_01,M,0.4um,M04,Dinoflagellata,5,low,fishing prohibited
+Waigeo,Waigeo,WGO_01,M,12um,M12,Dinoflagellata,4,low,fishing prohibited
+Waigeo,Waigeo,WGO_01,M,12um,M12,Dinoflagellata,21,low,fishing prohibited
+Waigeo,Waigeo,WGO_01,S,0.4um,S04,Dinoflagellata,3,low,fishing prohibited
+Waigeo,Waigeo,WGO_01,S,12um,S12,Dinoflagellata,24,low,fishing prohibited
+Waigeo,Waigeo,WGO_01,S,12um,S12,Dinoflagellata,27,low,fishing prohibited
+Waigeo,Waigeo,WGO_02,M,0.4um,M04,Dinoflagellata,1,low,fishing prohibited
+Waigeo,Waigeo,WGO_02,M,0.4um,M04,Dinoflagellata,28,low,fishing prohibited
+Waigeo,Waigeo,WGO_02,M,12um,M12,Dinoflagellata,9,low,fishing prohibited
+Waigeo,Waigeo,WGO_02,M,12um,M12,Dinoflagellata,15,low,fishing prohibited
+Waigeo,Waigeo,WGO_02,S,0.4um,S04,Dinoflagellata,37,low,fishing prohibited
+Waigeo,Waigeo,WGO_02,S,0.4um,S04,Dinoflagellata,13,low,fishing prohibited
+Waigeo,Waigeo,WGO_02,S,12um,S12,Dinoflagellata,13,low,fishing prohibited
+Waigeo,Waigeo,WGO_02,S,12um,S12,Dinoflagellata,37,low,fishing prohibited
+Waigeo,Waigeo,WGO_03,M,0.4um,M04,Dinoflagellata,19,low,fishing prohibited
+Waigeo,Waigeo,WGO_03,M,12um,M12,Dinoflagellata,5,low,fishing prohibited
+Waigeo,Waigeo,WGO_03,M,12um,M12,Dinoflagellata,16,low,fishing prohibited
+Waigeo,Waigeo,WGO_03,S,0.4um,S04,Dinoflagellata,18,low,fishing prohibited
+Waigeo,Waigeo,WGO_03,S,12um,S12,Dinoflagellata,6,low,fishing prohibited
+Waigeo,Waigeo,WGO_03,S,12um,S12,Dinoflagellata,9,low,fishing prohibited
+Waigeo,Waigeo,WGO_04,M,0.4um,M04,Dinoflagellata,40,low,fishing prohibited
+Waigeo,Waigeo,WGO_04,M,12um,M12,Dinoflagellata,4,low,fishing prohibited
+Waigeo,Waigeo,WGO_04,M,12um,M12,Dinoflagellata,14,low,fishing prohibited
+Waigeo,Waigeo,WGO_04,S,0.4um,S04,Dinoflagellata,22,low,fishing prohibited
+Waigeo,Waigeo,WGO_04,S,12um,S12,Dinoflagellata,10,low,fishing prohibited
+Waigeo,Waigeo,WGO_04,S,12um,S12,Dinoflagellata,7,low,fishing prohibited
+Waigeo,Waigeo,WGO_05,M,0.4um,M04,Dinoflagellata,38,low,fishing prohibited
+Waigeo,Waigeo,WGO_05,M,12um,M12,Dinoflagellata,3,low,fishing prohibited
+Waigeo,Waigeo,WGO_05,M,12um,M12,Dinoflagellata,10,low,fishing prohibited
+Waigeo,Waigeo,WGO_05,S,0.4um,S04,Dinoflagellata,16,low,fishing prohibited
+Waigeo,Waigeo,WGO_05,S,12um,S12,Dinoflagellata,3,low,fishing prohibited
+Waigeo,Waigeo,WGO_05,S,12um,S12,Dinoflagellata,10,low,fishing prohibited
+Waigeo,Waigeo,WGO_06,M,0.4um,M04,Dinoflagellata,35,low,fishing prohibited
+Waigeo,Waigeo,WGO_06,M,12um,M12,Dinoflagellata,5,low,fishing prohibited
+Waigeo,Waigeo,WGO_06,M,12um,M12,Dinoflagellata,12,low,fishing prohibited
+Waigeo,Waigeo,WGO_06,S,0.4um,S04,Dinoflagellata,16,low,fishing prohibited
+Waigeo,Waigeo,WGO_06,S,12um,S12,Dinoflagellata,13,low,fishing prohibited
+Waigeo,Waigeo,WGO_06,S,12um,S12,Dinoflagellata,9,low,fishing prohibited
+Waigeo,Waigeo,WGO_07,M,0.4um,M04,Dinoflagellata,15,low,fishing prohibited
+Waigeo,Waigeo,WGO_07,M,12um,M12,Dinoflagellata,8,low,fishing prohibited
+Waigeo,Waigeo,WGO_07,M,12um,M12,Dinoflagellata,14,low,fishing prohibited
+Waigeo,Waigeo,WGO_07,S,0.4um,S04,Dinoflagellata,16,low,fishing prohibited
+Waigeo,Waigeo,WGO_07,S,12um,S12,Dinoflagellata,22,low,fishing prohibited
+Waigeo,Waigeo,WGO_07,S,12um,S12,Dinoflagellata,15,low,fishing prohibited
+Waigeo,Waigeo,WGO_08,M,0.4um,M04,Dinoflagellata,39,low,fishing prohibited
+Waigeo,Waigeo,WGO_08,M,12um,M12,Dinoflagellata,9,low,fishing prohibited
+Waigeo,Waigeo,WGO_08,M,12um,M12,Dinoflagellata,22,low,fishing prohibited
+Waigeo,Waigeo,WGO_08,S,0.4um,S04,Dinoflagellata,27,low,fishing prohibited
+Waigeo,Waigeo,WGO_08,S,12um,S12,Dinoflagellata,4,low,fishing prohibited
+Waigeo,Waigeo,WGO_08,S,12um,S12,Dinoflagellata,9,low,fishing prohibited
+Waigeo,Waigeo,WGO_09,M,0.4um,M04,Dinoflagellata,32,low,fishing prohibited
+Waigeo,Waigeo,WGO_09,M,12um,M12,Dinoflagellata,14,low,fishing prohibited
+Waigeo,Waigeo,WGO_09,M,12um,M12,Dinoflagellata,11,low,fishing prohibited
+Waigeo,Waigeo,WGO_09,S,0.4um,S04,Dinoflagellata,34,low,fishing prohibited
+Waigeo,Waigeo,WGO_09,S,12um,S12,Dinoflagellata,7,low,fishing prohibited
+Waigeo,Waigeo,WGO_10,M,0.4um,M04,Dinoflagellata,41,low,fishing prohibited
+Waigeo,Waigeo,WGO_10,M,12um,M12,Dinoflagellata,7,low,fishing prohibited
+Waigeo,Waigeo,WGO_10,M,12um,M12,Dinoflagellata,24,low,fishing prohibited
+Waigeo,Waigeo,WGO_10,S,0.4um,S04,Dinoflagellata,18,low,fishing prohibited
+Waigeo,Waigeo,WGO_10,S,12um,S12,Dinoflagellata,20,low,fishing prohibited
+Waigeo,Waigeo,WGO_10,S,12um,S12,Dinoflagellata,29,low,fishing prohibited
+Waigeo,Waigeo,WGO_11,M,0.4um,M04,Dinoflagellata,24,low,unrestricted fishing
+Waigeo,Waigeo,WGO_11,M,12um,M12,Dinoflagellata,5,low,unrestricted fishing
+Waigeo,Waigeo,WGO_11,M,12um,M12,Dinoflagellata,14,low,unrestricted fishing
+Waigeo,Waigeo,WGO_11,S,0.4um,S04,Dinoflagellata,5,low,unrestricted fishing
+Waigeo,Waigeo,WGO_11,S,12um,S12,Dinoflagellata,13,low,unrestricted fishing
+Waigeo,Waigeo,WGO_11,S,12um,S12,Dinoflagellata,2,low,unrestricted fishing
+Waigeo,Waigeo,WGO_12,M,0.4um,M04,Dinoflagellata,25,low,unrestricted fishing
+Waigeo,Waigeo,WGO_12,M,12um,M12,Dinoflagellata,7,low,unrestricted fishing
+Waigeo,Waigeo,WGO_12,M,12um,M12,Dinoflagellata,26,low,unrestricted fishing
+Waigeo,Waigeo,WGO_12,S,0.4um,S04,Dinoflagellata,5,low,unrestricted fishing
+Waigeo,Waigeo,WGO_12,S,12um,S12,Dinoflagellata,29,low,unrestricted fishing
+Waigeo,Waigeo,WGO_12,S,12um,S12,Dinoflagellata,9,low,unrestricted fishing
+Waigeo,Waigeo,WGO_13,M,0.4um,M04,Dinoflagellata,11,low,unrestricted fishing
+Waigeo,Waigeo,WGO_13,M,12um,M12,Dinoflagellata,5,low,unrestricted fishing
+Waigeo,Waigeo,WGO_13,M,12um,M12,Dinoflagellata,12,low,unrestricted fishing
+Waigeo,Waigeo,WGO_13,S,0.4um,S04,Dinoflagellata,22,low,unrestricted fishing
+Waigeo,Waigeo,WGO_13,S,12um,S12,Dinoflagellata,4,low,unrestricted fishing
+Waigeo,Waigeo,WGO_14,M,0.4um,M04,Dinoflagellata,37,low,unrestricted fishing
+Waigeo,Waigeo,WGO_14,M,12um,M12,Dinoflagellata,26,low,unrestricted fishing
+Waigeo,Waigeo,WGO_14,M,12um,M12,Dinoflagellata,9,low,unrestricted fishing
+Waigeo,Waigeo,WGO_14,S,0.4um,S04,Dinoflagellata,2,low,unrestricted fishing
+Waigeo,Waigeo,WGO_16,M,0.4um,M04,Dinoflagellata,22,low,fishing prohibited
+Waigeo,Waigeo,WGO_16,M,12um,M12,Dinoflagellata,9,low,fishing prohibited
+Waigeo,Waigeo,WGO_16,M,12um,M12,Dinoflagellata,6,low,fishing prohibited
+Waigeo,Waigeo,WGO_16,S,0.4um,S04,Dinoflagellata,36,low,fishing prohibited
+Waigeo,Waigeo,WGO_16,S,12um,S12,Dinoflagellata,6,low,fishing prohibited
+Waigeo,Waigeo,WGO_17,M,0.4um,M04,Dinoflagellata,19,low,fishing prohibited
+Waigeo,Waigeo,WGO_17,M,12um,M12,Dinoflagellata,10,low,fishing prohibited
+Waigeo,Waigeo,WGO_17,M,12um,M12,Dinoflagellata,12,low,fishing prohibited
+Waigeo,Waigeo,WGO_17,S,0.4um,S04,Dinoflagellata,18,low,fishing prohibited
+Waigeo,Waigeo,WGO_17,S,12um,S12,Dinoflagellata,5,low,fishing prohibited
+Waigeo,Waigeo,WGO_18,M,0.4um,M04,Dinoflagellata,24,low,unrestricted fishing
+Waigeo,Waigeo,WGO_18,M,12um,M12,Dinoflagellata,10,low,unrestricted fishing
+Waigeo,Waigeo,WGO_18,M,12um,M12,Dinoflagellata,13,low,unrestricted fishing
+Waigeo,Waigeo,WGO_18,S,0.4um,S04,Dinoflagellata,21,low,unrestricted fishing
+Waigeo,Waigeo,WGO_18,S,12um,S12,Dinoflagellata,4,low,unrestricted fishing
+Waigeo,Waigeo,WGO_19,M,0.4um,M04,Dinoflagellata,24,low,unrestricted fishing
+Waigeo,Waigeo,WGO_19,M,0.4um,M04,Dinoflagellata,19,low,unrestricted fishing
+Waigeo,Waigeo,WGO_19,M,12um,M12,Dinoflagellata,3,low,unrestricted fishing
+Waigeo,Waigeo,WGO_19,M,12um,M12,Dinoflagellata,11,low,unrestricted fishing
+Waigeo,Waigeo,WGO_19,S,12um,S12,Dinoflagellata,20,low,unrestricted fishing
+Wakatobi,Wakatobi,WK_03,M,0.4um,M04,Dinoflagellata,50,none,unrestricted fishing
+Wakatobi,Wakatobi,WK_03,M,12um,M12,Dinoflagellata,20,high,unrestricted fishing
+Wakatobi,Wakatobi,WK_03,S,0.4um,S04,Dinoflagellata,45,high,unrestricted fishing
+Wakatobi,Wakatobi,WK_03,S,12um,S12,Dinoflagellata,43,high,unrestricted fishing
+Wakatobi,Wakatobi,WK_04,M,0.4um,M04,Dinoflagellata,27,none,unrestricted fishing
+Wakatobi,Wakatobi,WK_04,M,12um,M12,Dinoflagellata,41,high,unrestricted fishing
+Wakatobi,Wakatobi,WK_04,S,0.4um,S04,Dinoflagellata,35,high,unrestricted fishing
+Wakatobi,Wakatobi,WK_04,S,12um,S12,Dinoflagellata,21,high,unrestricted fishing
+Wakatobi,Wakatobi,WK_05,M,0.4um,M04,Dinoflagellata,4,none,unrestricted fishing
+Wakatobi,Wakatobi,WK_05,M,12um,M12,Dinoflagellata,18,high,unrestricted fishing
+Wakatobi,Wakatobi,WK_05,S,0.4um,S04,Dinoflagellata,36,high,unrestricted fishing
+Wakatobi,Wakatobi,WK_05,S,12um,S12,Dinoflagellata,16,high,unrestricted fishing
+Wakatobi,Wakatobi,WK_06,M,0.4um,M04,Dinoflagellata,34,none,unrestricted fishing
+Wakatobi,Wakatobi,WK_06,M,12um,M12,Dinoflagellata,25,high,unrestricted fishing
+Wakatobi,Wakatobi,WK_06,S,0.4um,S04,Dinoflagellata,28,high,unrestricted fishing
+Wakatobi,Wakatobi,WK_06,S,12um,S12,Dinoflagellata,13,high,unrestricted fishing
+Wakatobi,Wakatobi,WK_08,M,0.4um,M04,Dinoflagellata,25,none,unrestricted fishing
+Wakatobi,Wakatobi,WK_08,M,12um,M12,Dinoflagellata,27,high,unrestricted fishing
+Wakatobi,Wakatobi,WK_08,S,0.4um,S04,Dinoflagellata,38,high,unrestricted fishing
+Wakatobi,Wakatobi,WK_08,S,12um,S12,Dinoflagellata,19,high,unrestricted fishing
+Wakatobi,Wakatobi,WK_09,M,0.4um,M04,Dinoflagellata,39,none,unrestricted fishing
+Wakatobi,Wakatobi,WK_09,M,12um,M12,Dinoflagellata,16,high,unrestricted fishing
+Wakatobi,Wakatobi,WK_09,S,0.4um,S04,Dinoflagellata,40,high,unrestricted fishing
+Wakatobi,Wakatobi,WK_09,S,12um,S12,Dinoflagellata,22,high,unrestricted fishing
+Wakatobi,Wakatobi,WK_11,M,0.4um,M04,Dinoflagellata,40,none,unrestricted fishing
+Wakatobi,Wakatobi,WK_11,M,12um,M12,Dinoflagellata,16,high,unrestricted fishing
+Wakatobi,Wakatobi,WK_11,S,0.4um,S04,Dinoflagellata,36,high,unrestricted fishing
+Wakatobi,Wakatobi,WK_11,S,12um,S12,Dinoflagellata,24,high,unrestricted fishing
+Wakatobi,Wakatobi,WK_12,M,0.4um,M04,Dinoflagellata,35,none,unrestricted fishing
+Wakatobi,Wakatobi,WK_12,M,12um,M12,Dinoflagellata,18,high,unrestricted fishing
+Wakatobi,Wakatobi,WK_12,S,0.4um,S04,Dinoflagellata,39,high,unrestricted fishing
+Wakatobi,Wakatobi,WK_12,S,12um,S12,Dinoflagellata,17,high,unrestricted fishing
+Wakatobi,Wakatobi,WK_15,M,0.4um,M04,Dinoflagellata,23,none,unrestricted fishing
+Wakatobi,Wakatobi,WK_15,M,12um,M12,Dinoflagellata,39,high,unrestricted fishing
+Wakatobi,Wakatobi,WK_15,S,0.4um,S04,Dinoflagellata,18,high,unrestricted fishing
+Wakatobi,Wakatobi,WK_15,S,12um,S12,Dinoflagellata,23,high,unrestricted fishing
+Wakatobi,Wakatobi,WK_16,M,0.4um,M04,Dinoflagellata,26,none,unrestricted fishing
+Wakatobi,Wakatobi,WK_16,M,12um,M12,Dinoflagellata,42,high,unrestricted fishing
+Wakatobi,Wakatobi,WK_16,S,0.4um,S04,Dinoflagellata,39,high,unrestricted fishing
+Wakatobi,Wakatobi,WK_16,S,12um,S12,Dinoflagellata,36,high,unrestricted fishing
+Wakatobi,Wakatobi,WK_18,M,0.4um,M04,Dinoflagellata,38,none,unrestricted fishing
+Wakatobi,Wakatobi,WK_18,M,12um,M12,Dinoflagellata,25,high,unrestricted fishing
+Wakatobi,Wakatobi,WK_18,S,12um,S12,Dinoflagellata,27,high,unrestricted fishing
+Wakatobi,Wakatobi,WK_20,M,0.4um,M04,Dinoflagellata,50,none,unrestricted fishing
+Wakatobi,Wakatobi,WK_20,M,12um,M12,Dinoflagellata,11,high,unrestricted fishing
+Wakatobi,Wakatobi,WK_20,S,0.4um,S04,Dinoflagellata,45,high,unrestricted fishing
+Wakatobi,Wakatobi,WK_20,S,12um,S12,Dinoflagellata,31,high,unrestricted fishing

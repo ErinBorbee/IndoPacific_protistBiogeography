@@ -1,0 +1,305 @@
+sampleID,region,location,marine_protected_area,management_type,fishing_restriction,siteID,depth,filter,subset,SAR_OTUrichness,diatom_OTUrichness,dinoAll_OTUrichness,dinophyceae_OTUrichness,SAR_ASVrichness,diatom_ASVrichness,dinoAll_ASVrichness,dinophyceae_ASVrichness,radio_OTUrichness,radio_ASVrichness,foram_OTUrichness,foram_ASVrichness,cerc_OTUrichness,cerc_ASVrichness,api_OTUrichness,api_ASVrichness,ciliate_OTUrichness,ciliate_ASVrichness,MAST_OTUrichness,MAST_ASVrichness,pelago_OTUrichness,pelago_ASVrichness,chryso_OTUrichness,chryso_ASVrichness
+EB504,Lombok,North Lombok,no,open access,unrestricted,LBK_17,M,0.4um,M04,34,10,12,5,45,11,15,7,6,6,0,0,0,0,0,0,5,5,3,1,0,0,0,0
+EB509,Lombok,North Lombok,no,open access,unrestricted,LBK_18,M,0.4um,M04,80,8,32,13,125,9,62,18,8,10,1,2,4,6,2,5,4,4,10,7,1,1,2,3
+EB511,Lombok,South Lombok,yes,core zone,no-take,LBK_07,M,0.4um,M04,102,12,25,8,138,10,42,13,4,4,1,1,5,6,2,2,15,20,25,15,2,2,2,3
+EB514,Lombok,South Lombok,no,open access,unrestricted,LBK_08,M,0.4um,M04,108,20,37,14,133,7,53,19,3,3,0,0,6,7,1,1,16,18,19,11,2,2,3,3
+EB518,Lombok,South Lombok,no,open access,unrestricted,LBK_09,M,0.4um,M04,105,15,30,9,149,7,52,17,5,6,1,1,4,5,1,1,18,22,21,11,2,2,2,5
+EB521,Lombok,South Lombok,yes,core zone,no-take,LBK_10,M,0.4um,M04,106,19,29,5,160,5,62,9,8,10,2,2,5,6,0,0,14,15,25,14,2,2,2,3
+EB524,Lombok,South Lombok,yes,sustainable fisheries zone,gear-restricted,LBK_11,M,0.4um,M04,140,18,38,12,221,16,88,25,13,14,1,1,11,15,3,3,17,23,23,17,2,2,5,8
+EB530,Waigeo,Waigeo,yes,core zone,no-take,WGO_01,M,0.4um,M04,3,15,13,11,5,3,40,34,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,1
+EB534,Waigeo,Waigeo,yes,core zone,no-take,WGO_02,M,0.4um,M04,59,5,1,1,96,9,4,4,1,1,0,0,1,1,1,1,8,10,8,3,1,1,2,2
+EB557,Waigeo,Waigeo,no,open access,unrestricted,WGO_13,M,0.4um,M04,80,11,11,6,125,4,25,20,11,12,1,1,0,0,1,1,7,8,17,8,1,1,2,3
+EB568,Waigeo,Waigeo,no,open access,unrestricted,WGO_19,M,0.4um,M04,76,8,24,9,110,11,46,17,5,6,0,0,1,1,2,2,11,14,10,6,1,1,2,2
+EB569,Misool,Misool,yes,sustainable fisheries zone,gear-restricted,MIS_01,M,0.4um,M04,99,9,36,11,181,9,101,38,12,15,0,0,4,4,2,3,12,19,12,10,1,1,3,3
+EB573,Misool,Misool,yes,sustainable fisheries zone,gear-restricted,MIS_01,M,0.4um,M04,112,8,42,13,214,10,126,47,9,10,1,1,4,4,1,1,15,23,16,13,1,1,1,2
+EB577,Misool,Misool,yes,tourism zone,no-take,MIS_02,M,0.4um,M04,109,22,38,11,192,11,102,31,10,11,0,0,6,6,1,1,19,28,12,9,1,1,1,1
+EB585,Misool,Misool,yes,tourism zone,no-take,MIS_04,M,0.4um,M04,159,18,54,21,300,15,156,59,17,25,5,7,10,11,3,3,18,28,21,15,1,1,4,4
+EB589,Misool,Misool,yes,tourism zone,no-take,MIS_05,M,0.4um,M04,128,15,45,14,254,11,133,40,16,23,0,0,8,8,2,6,13,16,18,17,1,1,2,2
+EB593,Misool,Misool,yes,tourism zone,no-take,MIS_06,M,0.4um,M04,128,14,42,13,274,12,155,47,13,17,0,0,8,10,3,3,13,18,20,20,1,1,4,6
+EB601,Misool,Misool,yes,sustainable fisheries zone,gear-restricted,MIS_07,M,0.4um,M04,144,18,57,20,313,8,186,63,12,17,2,2,10,11,2,2,16,26,22,19,1,1,3,4
+EB605,Misool,Misool,yes,sustainable fisheries zone,gear-restricted,MIS_08,M,0.4um,M04,103,14,43,14,156,5,91,30,11,12,1,1,4,4,1,1,11,11,16,9,1,1,2,2
+EB609,Misool,Misool,yes,sustainable fisheries zone,gear-restricted,MIS_09,M,0.4um,M04,111,19,41,9,176,7,95,24,13,14,0,0,6,6,2,2,12,17,18,12,1,1,3,3
+EB613,Misool,Misool,yes,sustainable fisheries zone,gear-restricted,MIS_10,M,0.4um,M04,101,13,36,12,164,8,88,29,9,9,1,1,2,2,2,2,9,10,22,18,2,2,2,2
+EB617,Misool,Misool,yes,sustainable fisheries zone,gear-restricted,MIS_11,M,0.4um,M04,154,18,48,14,317,10,170,32,15,17,4,4,6,7,3,4,20,31,26,24,2,2,4,6
+EB621,Misool,Misool,yes,sustainable fisheries zone,gear-restricted,MIS_12,M,0.4um,M04,114,21,38,12,188,10,100,34,12,12,1,1,3,3,2,2,16,21,16,8,1,1,4,4
+EB625,Misool,Misool,yes,tourism zone,no-take,MIS_13,M,0.4um,M04,179,26,54,18,391,25,196,58,15,17,1,1,14,17,5,8,19,32,25,33,2,2,6,10
+EB629,Misool,Misool,yes,sustainable fisheries zone,gear-restricted,MIS_14,M,0.4um,M04,24,9,7,6,47,18,20,16,1,1,0,0,0,0,1,1,4,6,1,1,0,0,0,0
+EB633,Misool,Misool,yes,sustainable fisheries zone,gear-restricted,MIS_15,M,0.4um,M04,82,4,33,17,123,5,68,35,10,11,1,1,3,3,4,5,6,6,11,7,1,1,2,2
+EB637,Misool,Misool,yes,sustainable fisheries zone,gear-restricted,MIS_16,M,0.4um,M04,98,8,37,28,159,36,69,47,11,17,0,0,2,2,6,7,11,13,3,4,0,0,0,0
+EB645,Misool,Misool,yes,tourism zone,no-take,MIS_18,M,0.4um,M04,134,6,52,20,265,19,144,45,16,23,4,5,4,4,1,2,14,18,15,16,1,1,4,6
+EB649,Misool,Misool,yes,tourism zone,no-take,MIS_19,M,0.4um,M04,96,14,35,9,181,7,98,27,13,13,1,1,2,2,3,5,5,5,16,16,1,1,3,5
+EB653,Misool,Misool,yes,tourism zone,no-take,MIS_20,M,0.4um,M04,132,13,40,14,256,7,137,42,13,13,5,11,7,7,3,3,20,28,20,12,1,1,3,6
+EB657,Misool,Misool,yes,tourism zone,no-take,MIS_21,M,0.4um,M04,119,9,47,14,266,5,171,37,13,17,0,0,3,3,2,2,11,18,17,8,2,2,3,6
+EB3,Waigeo,Waigeo,yes,core zone,no-take,WGO_01,M,0.4um,M04,21,9,5,3,35,13,13,11,1,1,0,0,0,0,0,0,6,7,1,1,0,0,0,0
+EB4,Waigeo,Waigeo,yes,core zone,no-take,WGO_02,M,0.4um,M04,95,18,28,9,139,12,60,16,4,4,0,0,2,2,1,1,20,24,15,10,1,1,4,5
+EB204,Waigeo,Waigeo,yes,core zone,no-take,WGO_03,M,0.4um,M04,68,4,19,5,91,15,35,11,6,6,2,2,1,1,0,0,7,7,13,7,1,1,3,3
+EB206,Waigeo,Waigeo,yes,core zone,no-take,WGO_04,M,0.4um,M04,135,7,40,14,248,33,114,39,8,9,0,0,6,8,4,5,8,9,27,21,3,3,2,2
+EB208,Waigeo,Waigeo,yes,tourism zone,no-take,WGO_05,M,0.4um,M04,111,6,38,11,251,21,129,35,9,17,4,6,3,4,2,4,12,19,15,12,1,2,3,3
+EB210,Waigeo,Waigeo,yes,tourism zone,no-take,WGO_06,M,0.4um,M04,103,5,35,11,168,16,77,29,9,12,4,4,4,4,3,3,9,11,15,13,1,2,1,1
+EB212,Waigeo,Waigeo,yes,tourism zone,no-take,WGO_07,M,0.4um,M04,39,3,15,3,60,12,27,9,6,6,1,1,1,1,0,0,0,0,4,5,1,2,0,0
+EB214,Waigeo,Waigeo,yes,core zone,no-take,WGO_08,M,0.4um,M04,135,9,39,12,256,28,110,32,11,14,0,0,5,6,1,1,17,25,23,23,1,1,4,4
+EB216,Waigeo,Waigeo,yes,tourism zone,no-take,WGO_09,M,0.4um,M04,87,9,32,8,134,12,66,18,10,12,1,1,1,1,0,0,7,8,17,8,2,2,2,4
+EB218,Waigeo,Waigeo,yes,tourism zone,no-take,WGO_10,M,0.4um,M04,117,5,41,10,192,11,90,19,9,10,0,0,2,3,2,3,15,21,22,16,2,2,1,1
+EB220,Waigeo,Waigeo,no,open access,unrestricted,WGO_11,M,0.4um,M04,79,7,24,8,130,11,64,22,5,6,3,3,1,1,0,0,6,7,16,12,1,2,3,3
+EB221,Waigeo,Waigeo,no,open access,unrestricted,WGO_12,M,0.4um,M04,68,4,25,8,103,10,49,17,3,4,0,0,1,1,1,1,9,11,13,8,1,1,1,1
+EB225,Waigeo,Waigeo,no,open access,unrestricted,WGO_14,M,0.4um,M04,112,9,37,9,210,9,110,27,10,11,4,4,6,8,2,2,10,15,20,11,1,1,4,6
+EB226,Waigeo,Waigeo,yes,core zone,no-take,WGO_16,M,0.4um,M04,66,8,22,8,96,17,35,18,9,9,0,0,2,2,0,0,6,8,10,6,1,1,1,1
+EB228,Waigeo,Waigeo,yes,core zone,no-take,WGO_17,M,0.4um,M04,58,12,19,6,80,17,33,16,5,5,0,0,0,0,0,0,8,9,9,7,1,1,0,0
+EB231,Waigeo,Waigeo,no,open access,unrestricted,WGO_18,M,0.4um,M04,91,16,24,9,128,18,48,21,5,5,3,3,4,4,3,3,10,13,16,13,1,1,2,2
+EB233,Waigeo,Waigeo,no,open access,unrestricted,WGO_19,M,0.4um,M04,57,23,19,6,121,22,44,22,4,7,0,0,1,1,0,0,5,10,11,9,1,1,0,0
+EB235,Wakatobi,Wakatobi,no,open access,unrestricted,WK_03,M,0.4um,M04,143,17,50,15,245,19,121,33,16,24,0,0,6,6,3,4,11,12,25,21,1,1,3,3
+EB239,Wakatobi,Wakatobi,no,open access,unrestricted,WK_04,M,0.4um,M04,108,13,27,10,164,15,55,20,6,8,4,7,9,11,6,6,9,9,21,16,3,3,1,1
+EB242,Wakatobi,Wakatobi,no,open access,unrestricted,WK_05,M,0.4um,M04,8,18,4,2,9,1,4,2,0,0,0,0,1,1,0,0,1,1,0,0,0,0,0,0
+EB245,Wakatobi,Wakatobi,no,open access,unrestricted,WK_06,M,0.4um,M04,102,22,34,12,172,17,84,28,9,17,0,0,6,7,2,2,7,7,16,7,2,2,1,1
+EB248,Wakatobi,Wakatobi,no,open access,unrestricted,WK_08,M,0.4um,M04,77,22,25,6,128,10,62,16,10,12,3,4,1,1,1,1,7,10,13,8,1,1,3,5
+EB251,Wakatobi,Wakatobi,no,open access,unrestricted,WK_09,M,0.4um,M04,114,9,39,12,200,11,96,23,11,13,3,4,3,3,0,0,11,14,19,15,2,2,6,8
+EB253,Wakatobi,Wakatobi,no,open access,unrestricted,WK_11,M,0.4um,M04,128,13,40,10,242,17,119,29,16,23,3,3,4,4,2,3,11,12,21,14,2,2,3,7
+EB257,Wakatobi,Wakatobi,no,open access,unrestricted,WK_15,M,0.4um,M04,83,4,23,17,145,43,39,27,9,10,2,2,2,2,2,3,14,22,4,4,0,0,3,3
+EB260,Wakatobi,Wakatobi,no,open access,unrestricted,WK_16,M,0.4um,M04,105,8,26,10,177,26,55,24,8,9,0,0,3,3,3,9,22,34,9,13,2,2,5,5
+EB266,Wakatobi,Wakatobi,no,open access,unrestricted,WK_20,M,0.4um,M04,177,9,50,16,392,14,195,47,16,22,3,3,10,13,4,7,26,36,28,25,2,2,8,18
+EB277,Wakatobi,Wakatobi,no,open access,unrestricted,WK_12,M,0.4um,M04,148,10,35,11,257,23,87,27,7,7,6,9,10,14,2,2,24,32,24,27,2,2,4,7
+EB282,Wakatobi,Wakatobi,no,open access,unrestricted,WK_18,M,0.4um,M04,153,8,38,13,303,10,122,38,13,17,3,6,7,8,4,4,28,46,27,27,2,2,7,15
+EB359,Lombok,North Lombok,yes,sustainable fisheries zone,gear-restricted,LBK_02,M,0.4um,M04,141,6,44,12,312,9,134,31,13,15,3,3,7,8,2,6,18,28,28,29,3,3,3,16
+EB363,Lombok,North Lombok,yes,sustainable fisheries zone,gear-restricted,LBK_03,M,0.4um,M04,133,16,49,13,278,4,155,34,10,11,1,1,5,6,3,5,13,17,27,20,2,2,3,10
+EB367,Lombok,North Lombok,yes,core zone,no-take,LBK_04,M,0.4um,M04,132,13,49,17,295,4,159,41,9,11,3,3,5,6,3,8,14,21,24,19,3,3,3,11
+EB371,Lombok,North Lombok,no,open access,unrestricted,LBK_05,M,0.4um,M04,149,5,54,16,353,11,203,49,16,22,3,3,5,6,3,4,15,21,26,21,2,3,3,12
+EB374,Lombok,North Lombok,no,open access,unrestricted,LBK_06,M,0.4um,M04,155,10,49,13,359,8,176,43,18,23,3,3,8,8,3,8,17,27,27,32,3,3,3,14
+EB382,Lombok,South Lombok,yes,sustainable fisheries zone,gear-restricted,LBK_12,M,0.4um,M04,155,10,41,15,269,21,102,36,14,17,3,3,7,9,2,3,22,34,28,25,2,2,5,9
+EB384,Lombok,North Lombok,yes,core zone,no-take,LBK_13,M,0.4um,M04,143,19,44,10,319,8,167,36,16,23,1,1,5,6,3,5,18,26,27,27,3,3,4,6
+EB388,Lombok,North Lombok,yes,sustainable fisheries zone,gear-restricted,LBK_14,M,0.4um,M04,131,8,44,17,287,18,148,48,10,16,2,2,4,5,1,4,11,14,23,19,2,2,4,9
+EB392,Lombok,North Lombok,yes,sustainable fisheries zone,gear-restricted,LBK_15,M,0.4um,M04,148,7,49,15,346,11,185,38,21,30,2,2,6,6,3,6,14,17,28,30,3,3,3,10
+EB396,Lombok,North Lombok,yes,core zone,no-take,LBK_16,M,0.4um,M04,127,0,37,11,231,11,94,26,11,13,6,8,8,10,3,5,7,9,23,24,3,3,4,5
+EB501,Lombok,North Lombok,yes,core zone,no-take,LBK_16,M,12um,M12,32,10,12,7,48,19,16,10,3,3,0,0,2,2,1,3,1,1,0,0,1,1,0,0
+EB505,Lombok,North Lombok,no,open access,unrestricted,LBK_17,M,12um,M12,103,11,40,9,156,16,76,15,6,7,3,3,5,7,1,3,4,4,17,10,2,2,2,2
+EB508,Lombok,North Lombok,no,open access,unrestricted,LBK_18,M,12um,M12,53,6,18,11,111,46,40,27,5,5,1,1,2,2,1,3,2,2,2,3,0,0,0,0
+EB512,Lombok,South Lombok,yes,core zone,no-take,LBK_07,M,12um,M12,55,12,11,9,70,21,13,11,1,1,0,0,2,2,1,1,19,20,3,2,0,0,1,1
+EB515,Lombok,South Lombok,no,open access,unrestricted,LBK_08,M,12um,M12,98,8,29,20,141,43,41,27,6,6,1,1,3,4,1,2,20,22,6,4,1,1,2,3
+EB519,Lombok,South Lombok,no,open access,unrestricted,LBK_09,M,12um,M12,57,11,19,10,74,23,26,16,3,3,0,0,1,1,2,2,10,11,2,2,1,1,1,1
+EB522,Lombok,South Lombok,yes,core zone,no-take,LBK_10,M,12um,M12,90,15,22,12,162,45,54,28,9,13,3,3,5,5,2,5,12,13,3,6,1,1,1,1
+EB525,Lombok,South Lombok,yes,sustainable fisheries zone,gear-restricted,LBK_12,M,12um,M12,59,9,17,8,90,33,29,16,2,2,0,0,3,3,2,2,9,10,4,5,0,0,0,0
+EB527,Lombok,South Lombok,yes,sustainable fisheries zone,gear-restricted,LBK_11,M,12um,M12,82,1,18,10,125,45,29,15,8,9,1,1,4,4,1,1,19,21,3,4,0,0,1,1
+EB531,Waigeo,Waigeo,yes,core zone,no-take,WGO_01,M,12um,M12,36,5,4,1,85,37,6,1,2,2,0,0,0,0,0,0,4,4,1,1,0,0,0,0
+EB535,Waigeo,Waigeo,yes,core zone,no-take,WGO_02,M,12um,M12,10,16,9,5,13,5,17,13,0,0,0,0,0,0,2,2,2,2,0,0,0,0,0,0
+EB536,Waigeo,Waigeo,yes,core zone,no-take,WGO_03,M,12um,M12,32,15,5,5,56,31,8,8,0,0,0,0,1,1,0,0,2,2,0,0,0,0,1,1
+EB538,Waigeo,Waigeo,yes,core zone,no-take,WGO_04,M,12um,M12,15,5,4,4,24,14,6,6,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0
+EB540,Waigeo,Waigeo,yes,tourism zone,no-take,WGO_05,M,12um,M12,36,4,3,2,71,33,5,3,1,1,1,1,0,0,1,2,7,7,1,1,1,1,1,1
+EB542,Waigeo,Waigeo,yes,tourism zone,no-take,WGO_06,M,12um,M12,9,15,5,4,12,5,9,8,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,1
+EB544,Waigeo,Waigeo,yes,tourism zone,no-take,WGO_07,M,12um,M12,54,21,8,7,96,47,18,16,4,4,0,0,1,1,2,3,7,9,2,1,0,0,1,1
+EB546,Waigeo,Waigeo,yes,core zone,no-take,WGO_08,M,12um,M12,63,13,9,6,113,63,16,13,3,3,0,0,1,1,2,2,8,11,1,1,0,0,0,0
+EB548,Waigeo,Waigeo,yes,tourism zone,no-take,WGO_09,M,12um,M12,21,16,14,8,37,27,42,33,0,0,0,0,0,0,0,0,1,1,0,0,1,1,0,0
+EB550,Waigeo,Waigeo,yes,tourism zone,no-take,WGO_10,M,12um,M12,42,3,7,4,103,44,8,5,1,1,1,1,0,0,0,0,9,13,1,2,0,0,0,0
+EB552,Waigeo,Waigeo,no,open access,unrestricted,WGO_11,M,12um,M12,55,2,5,2,100,45,8,5,0,0,0,0,0,0,3,4,11,15,1,1,0,0,0,0
+EB555,Waigeo,Waigeo,no,open access,unrestricted,WGO_12,M,12um,M12,41,11,7,6,51,14,14,13,2,2,0,0,0,0,0,0,9,9,2,2,0,0,1,1
+EB558,Waigeo,Waigeo,no,open access,unrestricted,WGO_13,M,12um,M12,35,12,5,5,66,26,11,11,2,2,0,0,0,0,2,2,7,9,1,1,0,0,1,1
+EB559,Waigeo,Waigeo,no,open access,unrestricted,WGO_14,M,12um,M12,22,15,26,6,40,23,46,10,1,2,0,0,0,0,0,0,4,4,0,0,0,0,0,0
+EB562,Waigeo,Waigeo,yes,core zone,no-take,WGO_16,M,12um,M12,26,3,9,8,55,25,18,17,2,2,1,2,1,1,1,1,3,3,0,0,0,0,0,0
+EB564,Waigeo,Waigeo,yes,core zone,no-take,WGO_17,M,12um,M12,40,19,10,8,72,31,24,21,1,1,0,0,0,0,0,0,11,11,3,3,0,0,1,1
+EB565,Waigeo,Waigeo,no,open access,unrestricted,WGO_18,M,12um,M12,37,6,10,7,88,56,21,18,1,1,0,0,1,2,1,1,2,3,1,2,0,0,0,0
+EB567,Waigeo,Waigeo,no,open access,unrestricted,WGO_19,M,12um,M12,25,9,3,3,33,13,9,9,1,1,2,3,0,0,1,1,4,4,0,0,0,0,0,0
+EB570,Misool,Misool,yes,sustainable fisheries zone,gear-restricted,MIS_01,M,12um,M12,42,13,15,11,64,17,28,18,3,4,0,0,2,2,3,3,6,6,1,1,1,1,1,1
+EB574,Misool,Misool,yes,sustainable fisheries zone,gear-restricted,MIS_01,M,12um,M12,100,10,41,14,170,9,98,40,8,9,0,0,5,5,0,0,15,20,13,8,1,1,1,1
+EB578,Misool,Misool,yes,tourism zone,no-take,MIS_02,M,12um,M12,66,9,22,12,103,42,36,22,5,6,0,0,3,3,3,5,7,7,2,2,1,1,0,0
+EB582,Misool,Misool,yes,tourism zone,no-take,MIS_03,M,12um,M12,77,12,23,13,127,39,47,30,10,10,0,0,4,4,2,5,11,13,1,2,1,1,0,0
+EB586,Misool,Misool,yes,tourism zone,no-take,MIS_04,M,12um,M12,65,10,20,13,110,48,32,22,8,8,1,1,3,4,2,3,7,7,1,2,0,0,0,0
+EB590,Misool,Misool,yes,tourism zone,no-take,MIS_05,M,12um,M12,46,13,17,13,97,39,42,35,4,5,0,0,0,0,2,2,4,4,1,2,0,0,0,0
+EB594,Misool,Misool,yes,tourism zone,no-take,MIS_06,M,12um,M12,44,12,15,12,84,30,39,33,3,3,0,0,0,0,3,3,5,5,2,2,0,0,0,0
+EB602,Misool,Misool,yes,sustainable fisheries zone,gear-restricted,MIS_07,M,12um,M12,72,8,29,17,138,45,61,37,3,4,1,1,2,2,3,5,10,12,2,4,0,0,0,0
+EB606,Misool,Misool,yes,sustainable fisheries zone,gear-restricted,MIS_08,M,12um,M12,56,7,18,11,106,30,48,35,4,4,0,0,1,1,3,3,11,14,3,4,0,0,0,0
+EB610,Misool,Misool,yes,sustainable fisheries zone,gear-restricted,MIS_09,M,12um,M12,48,6,14,10,84,37,29,24,3,3,0,0,0,0,2,4,7,7,2,2,0,0,0,0
+EB614,Misool,Misool,yes,sustainable fisheries zone,gear-restricted,MIS_10,M,12um,M12,64,8,23,12,126,38,51,31,6,6,0,0,0,0,2,5,14,16,2,2,0,0,1,1
+EB618,Misool,Misool,yes,sustainable fisheries zone,gear-restricted,MIS_11,M,12um,M12,76,8,25,12,99,29,35,18,5,5,0,0,2,2,1,1,14,15,4,3,1,1,2,2
+EB622,Misool,Misool,yes,sustainable fisheries zone,gear-restricted,MIS_12,M,12um,M12,82,13,27,18,136,47,49,33,6,7,0,0,2,2,3,5,13,15,4,5,0,0,1,1
+EB626,Misool,Misool,yes,tourism zone,no-take,MIS_13,M,12um,M12,126,8,42,23,226,68,87,52,11,15,0,0,7,8,3,4,21,25,6,8,0,0,1,1
+EB630,Misool,Misool,yes,sustainable fisheries zone,gear-restricted,MIS_14,M,12um,M12,130,8,45,16,192,10,93,27,15,16,1,1,8,8,6,6,8,9,18,12,1,1,3,4
+EB634,Misool,Misool,yes,sustainable fisheries zone,gear-restricted,MIS_15,M,12um,M12,48,8,17,9,68,5,33,18,9,11,0,0,0,0,4,4,8,8,4,1,1,1,1,1
+EB638,Misool,Misool,yes,sustainable fisheries zone,gear-restricted,MIS_16,M,12um,M12,48,4,29,22,77,9,54,38,1,1,0,0,1,1,4,5,1,1,1,1,0,0,0,0
+EB642,Misool,Misool,yes,sustainable fisheries zone,gear-restricted,MIS_17,M,12um,M12,133,7,59,22,286,9,180,62,16,22,0,0,5,5,2,3,15,19,15,17,1,1,3,4
+EB646,Misool,Misool,yes,tourism zone,no-take,MIS_18,M,12um,M12,102,14,35,12,162,8,70,27,12,14,3,4,5,5,5,6,12,15,8,4,1,1,3,3
+EB650,Misool,Misool,yes,tourism zone,no-take,MIS_19,M,12um,M12,137,9,52,20,272,20,154,47,16,18,1,1,4,4,2,2,14,22,18,18,1,1,3,6
+EB654,Misool,Misool,yes,tourism zone,no-take,MIS_20,M,12um,M12,51,14,17,9,78,20,34,21,7,9,1,1,0,0,2,2,8,9,1,1,0,0,0,0
+EB658,Misool,Misool,yes,tourism zone,no-take,MIS_21,M,12um,M12,92,11,43,18,155,16,94,34,12,14,0,0,0,0,2,2,8,8,9,7,1,1,1,1
+EB1,Waigeo,Waigeo,yes,core zone,no-take,WGO_01,M,12um,M12,62,23,21,15,95,42,30,23,3,3,0,0,0,0,2,3,13,14,0,0,0,0,0,0
+EB10,Waigeo,Waigeo,yes,tourism zone,no-take,WGO_09,M,12um,M12,49,23,11,7,76,44,16,11,2,2,0,0,0,0,1,1,5,5,3,4,1,1,0,0
+EB11,Waigeo,Waigeo,yes,tourism zone,no-take,WGO_10,M,12um,M12,68,17,24,14,113,45,44,27,0,0,0,0,4,4,2,2,11,13,1,1,0,0,0,0
+EB12,Waigeo,Waigeo,no,open access,unrestricted,WGO_11,M,12um,M12,65,17,14,9,115,46,25,17,5,6,0,0,1,1,3,3,18,26,3,3,0,0,0,0
+EB13,Waigeo,Waigeo,no,open access,unrestricted,WGO_12,M,12um,M12,88,11,26,16,152,51,42,28,6,7,0,0,2,2,4,4,22,32,3,3,0,0,1,1
+EB14,Waigeo,Waigeo,no,open access,unrestricted,WGO_13,M,12um,M12,39,16,12,7,67,26,22,16,4,5,0,0,0,0,1,1,8,10,2,2,0,0,0,0
+EB15,Waigeo,Waigeo,no,open access,unrestricted,WGO_14,M,12um,M12,38,19,9,8,52,22,17,16,3,3,0,0,2,2,0,0,7,7,0,0,0,0,0,0
+EB16,Waigeo,Waigeo,yes,core zone,no-take,WGO_16,M,12um,M12,29,24,6,5,53,39,10,8,0,0,0,0,0,0,0,0,2,2,1,1,0,0,0,0
+EB17,Waigeo,Waigeo,yes,core zone,no-take,WGO_17,M,12um,M12,53,22,12,8,107,65,22,18,3,3,0,0,0,0,0,0,12,15,1,1,0,0,0,0
+EB18,Waigeo,Waigeo,no,open access,unrestricted,WGO_18,M,12um,M12,56,7,13,11,99,43,29,27,3,3,1,1,1,1,0,0,12,17,2,3,0,0,0,0
+EB19,Waigeo,Waigeo,no,open access,unrestricted,WGO_19,M,12um,M12,35,23,11,7,44,11,15,11,1,1,1,1,0,0,2,2,6,7,4,1,0,0,0,0
+EB2,Waigeo,Waigeo,yes,core zone,no-take,WGO_02,M,12um,M12,54,5,15,9,100,57,25,17,1,1,0,0,0,0,3,4,9,9,1,1,0,0,0,0
+EB47,Waigeo,Waigeo,yes,core zone,no-take,WGO_03,M,12um,M12,48,19,16,8,76,37,25,16,1,1,0,0,1,1,1,1,10,10,0,0,0,0,0,0
+EB5,Waigeo,Waigeo,yes,core zone,no-take,WGO_04,M,12um,M12,51,9,14,6,66,26,20,8,1,1,1,1,2,2,2,2,3,4,5,5,1,1,0,0
+EB6,Waigeo,Waigeo,yes,tourism zone,no-take,WGO_05,M,12um,M12,36,16,10,5,52,22,13,8,2,2,0,0,1,1,3,3,7,7,0,0,0,0,1,1
+EB7,Waigeo,Waigeo,yes,tourism zone,no-take,WGO_06,M,12um,M12,37,22,12,7,54,26,19,13,0,0,1,1,1,1,1,1,4,4,1,1,0,0,0,0
+EB8,Waigeo,Waigeo,yes,tourism zone,no-take,WGO_07,M,12um,M12,54,26,14,9,78,40,20,15,1,1,0,0,0,0,2,2,8,8,4,4,0,0,0,0
+EB9,Waigeo,Waigeo,yes,core zone,no-take,WGO_08,M,12um,M12,84,11,22,10,134,57,38,22,6,6,0,0,0,0,4,4,17,18,4,5,0,0,0,0
+EB236,Wakatobi,Wakatobi,no,open access,unrestricted,WK_03,M,12um,M12,67,17,20,13,131,52,40,21,7,11,0,0,1,1,2,2,7,9,6,6,1,1,0,0
+EB240,Wakatobi,Wakatobi,no,open access,unrestricted,WK_04,M,12um,M12,126,10,41,10,225,15,112,23,15,19,2,2,4,4,4,4,13,18,23,20,1,1,0,0
+EB243,Wakatobi,Wakatobi,no,open access,unrestricted,WK_05,M,12um,M12,99,13,18,9,161,45,30,15,10,12,0,0,0,0,3,4,26,43,13,7,1,1,1,1
+EB246,Wakatobi,Wakatobi,no,open access,unrestricted,WK_06,M,12um,M12,95,10,25,10,164,64,46,19,6,9,0,0,2,2,1,1,19,21,10,6,1,1,1,1
+EB249,Wakatobi,Wakatobi,no,open access,unrestricted,WK_08,M,12um,M12,105,14,27,15,173,47,49,31,11,13,1,1,3,3,1,3,22,36,7,5,1,1,2,2
+EB252,Wakatobi,Wakatobi,no,open access,unrestricted,WK_09,M,12um,M12,49,9,16,8,70,15,27,14,5,6,1,1,0,0,1,1,7,8,4,3,1,1,4,5
+EB254,Wakatobi,Wakatobi,no,open access,unrestricted,WK_11,M,12um,M12,75,15,16,8,112,32,27,13,7,8,2,2,2,2,1,2,18,20,5,4,0,0,0,0
+EB256,Wakatobi,Wakatobi,no,open access,unrestricted,WK_12,M,12um,M12,81,14,18,13,127,51,30,25,7,7,0,0,7,7,1,1,15,15,4,4,1,1,0,0
+EB258,Wakatobi,Wakatobi,no,open access,unrestricted,WK_15,M,12um,M12,134,10,39,12,255,6,111,32,14,17,2,5,7,7,2,3,18,29,22,17,2,2,6,14
+EB261,Wakatobi,Wakatobi,no,open access,unrestricted,WK_16,M,12um,M12,139,13,42,12,280,11,145,39,12,16,2,2,4,4,3,4,23,32,22,17,2,2,6,11
+EB263,Wakatobi,Wakatobi,no,open access,unrestricted,WK_18,M,12um,M12,91,18,25,17,145,38,41,25,9,11,0,0,1,2,3,4,22,29,6,5,1,1,3,3
+EB267,Wakatobi,Wakatobi,no,open access,unrestricted,WK_20,M,12um,M12,60,6,11,5,92,17,29,16,7,7,0,0,1,1,2,3,19,21,6,5,2,2,0,0
+EB356,Lombok,North Lombok,yes,core zone,no-take,LBK_01,M,12um,M12,36,5,10,8,70,15,29,23,4,5,0,0,0,0,2,5,4,7,4,2,1,1,0,0
+EB360,Lombok,North Lombok,yes,sustainable fisheries zone,gear-restricted,LBK_02,M,12um,M12,46,7,18,10,57,7,27,18,4,4,1,1,0,0,3,3,7,7,5,2,0,0,0,0
+EB364,Lombok,North Lombok,yes,sustainable fisheries zone,gear-restricted,LBK_03,M,12um,M12,76,9,25,12,153,44,58,38,5,8,1,2,2,2,3,8,9,11,6,6,1,1,1,1
+EB368,Lombok,North Lombok,yes,core zone,no-take,LBK_04,M,12um,M12,53,7,16,9,98,31,40,25,8,8,1,1,3,3,1,2,5,7,2,1,1,1,0,0
+EB385,Lombok,North Lombok,yes,core zone,no-take,LBK_13,M,12um,M12,87,8,24,13,141,41,43,20,9,14,0,0,2,2,4,9,13,13,4,3,1,1,2,2
+EB389,Lombok,North Lombok,yes,sustainable fisheries zone,gear-restricted,LBK_14,M,12um,M12,38,13,14,9,73,17,32,21,6,8,0,0,1,1,2,5,3,4,2,0,0,0,0,0
+EB393,Lombok,North Lombok,yes,sustainable fisheries zone,gear-restricted,LBK_15,M,12um,M12,23,11,8,6,42,11,20,13,4,6,0,0,0,0,1,1,1,1,1,1,0,0,0,0
+EB502,Lombok,North Lombok,yes,core zone,no-take,LBK_16,S,0.4um,S04,113,16,22,9,205,13,53,16,7,8,4,14,9,11,10,24,8,8,11,7,2,2,2,2
+EB506,Lombok,North Lombok,no,open access,unrestricted,LBK_17,S,0.4um,S04,109,11,26,13,206,26,40,17,2,2,3,5,13,15,13,30,13,15,6,5,1,1,1,1
+EB516,Lombok,South Lombok,no,open access,unrestricted,LBK_08,S,0.4um,S04,76,15,21,7,94,10,30,9,0,0,1,2,5,7,8,8,9,9,9,3,1,1,3,3
+EB532,Waigeo,Waigeo,yes,core zone,no-take,WGO_01,S,0.4um,S04,12,4,3,2,16,7,5,4,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+EB553,Waigeo,Waigeo,no,open access,unrestricted,WGO_11,S,0.4um,S04,13,7,5,3,19,3,7,5,0,0,1,1,1,1,0,0,2,2,1,3,0,0,0,0
+EB560,Waigeo,Waigeo,no,open access,unrestricted,WGO_14,S,0.4um,S04,76,7,2,2,119,25,3,3,3,4,2,3,2,2,3,3,13,17,6,2,1,1,0,0
+EB571,Misool,Misool,yes,sustainable fisheries zone,gear-restricted,MIS_01,S,0.4um,S04,136,10,39,14,244,23,93,35,8,9,5,12,8,8,7,8,30,40,8,3,1,1,3,3
+EB575,Misool,Misool,yes,sustainable fisheries zone,gear-restricted,MIS_01,S,0.4um,S04,138,10,43,12,237,15,104,27,9,9,5,6,8,8,8,12,27,35,9,6,1,1,2,2
+EB579,Misool,Misool,yes,tourism zone,no-take,MIS_02,S,0.4um,S04,102,4,29,8,175,12,62,17,7,7,5,9,10,10,8,11,12,17,6,4,1,1,1,1
+EB583,Misool,Misool,yes,tourism zone,no-take,MIS_03,S,0.4um,S04,152,13,41,13,294,26,102,36,12,21,5,10,8,9,3,3,34,45,11,9,1,1,2,3
+EB587,Misool,Misool,yes,tourism zone,no-take,MIS_04,S,0.4um,S04,105,14,28,9,148,13,43,13,7,8,5,11,4,4,5,6,21,26,8,6,1,1,2,2
+EB591,Misool,Misool,yes,tourism zone,no-take,MIS_05,S,0.4um,S04,187,14,54,20,403,41,140,54,13,20,5,13,13,17,8,11,41,57,11,10,1,1,2,3
+EB595,Misool,Misool,yes,tourism zone,no-take,MIS_06,S,0.4um,S04,134,9,37,15,288,39,89,36,11,15,5,15,5,5,8,16,26,42,8,5,2,2,1,2
+EB603,Misool,Misool,yes,sustainable fisheries zone,gear-restricted,MIS_07,S,0.4um,S04,99,12,31,16,147,14,50,26,5,5,2,3,4,5,8,12,14,15,9,6,1,1,2,3
+EB607,Misool,Misool,yes,sustainable fisheries zone,gear-restricted,MIS_08,S,0.4um,S04,105,12,34,13,147,11,53,20,4,4,2,2,7,7,4,4,16,18,12,7,2,2,2,2
+EB611,Misool,Misool,yes,sustainable fisheries zone,gear-restricted,MIS_09,S,0.4um,S04,121,12,30,9,189,11,50,14,9,10,7,9,6,6,8,14,24,29,10,6,3,3,1,1
+EB615,Misool,Misool,yes,sustainable fisheries zone,gear-restricted,MIS_10,S,0.4um,S04,78,11,20,6,125,15,31,7,4,4,4,4,3,3,7,10,16,17,6,4,1,1,0,0
+EB619,Misool,Misool,yes,sustainable fisheries zone,gear-restricted,MIS_11,S,0.4um,S04,140,12,42,13,257,12,99,24,6,10,4,9,6,6,9,14,29,40,18,10,1,1,3,3
+EB623,Misool,Misool,yes,sustainable fisheries zone,gear-restricted,MIS_12,S,0.4um,S04,142,18,40,13,257,25,88,33,10,10,3,6,6,7,9,17,29,37,7,6,1,1,8,10
+EB627,Misool,Misool,yes,tourism zone,no-take,MIS_13,S,0.4um,S04,127,16,32,11,205,16,62,20,9,10,4,6,5,7,10,16,25,38,14,8,1,1,3,3
+EB631,Misool,Misool,yes,sustainable fisheries zone,gear-restricted,MIS_14,S,0.4um,S04,113,13,28,11,198,19,65,22,8,13,2,3,3,3,6,9,24,31,12,9,0,0,3,3
+EB635,Misool,Misool,yes,sustainable fisheries zone,gear-restricted,MIS_15,S,0.4um,S04,87,4,27,13,160,18,46,23,9,12,3,5,2,2,10,28,5,7,8,6,0,0,0,0
+EB639,Misool,Misool,yes,sustainable fisheries zone,gear-restricted,MIS_16,S,0.4um,S04,42,12,11,8,70,6,22,16,0,0,2,4,3,3,14,23,1,1,2,1,0,0,1,1
+EB643,Misool,Misool,yes,sustainable fisheries zone,gear-restricted,MIS_17,S,0.4um,S04,120,8,33,8,199,14,69,17,13,14,3,3,4,4,8,13,19,22,9,8,2,2,3,3
+EB647,Misool,Misool,yes,tourism zone,no-take,MIS_18,S,0.4um,S04,130,10,46,19,225,19,121,43,16,21,3,3,4,4,3,4,13,15,16,11,2,2,3,4
+EB651,Misool,Misool,yes,tourism zone,no-take,MIS_19,S,0.4um,S04,88,8,14,5,136,15,26,14,7,7,2,3,5,5,10,13,18,24,5,4,1,1,4,4
+EB655,Misool,Misool,yes,tourism zone,no-take,MIS_20,S,0.4um,S04,176,15,46,18,363,33,116,43,12,15,5,19,17,18,7,14,33,50,13,11,1,1,5,9
+EB659,Misool,Misool,yes,tourism zone,no-take,MIS_21,S,0.4um,S04,141,11,35,9,294,25,103,33,14,19,3,6,6,6,9,19,28,49,12,9,1,1,3,4
+EB43,Waigeo,Waigeo,yes,core zone,no-take,WGO_02,S,0.4um,S04,107,11,37,15,166,24,69,22,7,8,2,2,5,7,2,2,8,10,17,11,1,1,2,3
+EB202,Waigeo,Waigeo,yes,core zone,no-take,WGO_02,S,0.4um,S04,37,11,13,2,67,16,34,10,6,10,0,0,0,0,2,2,1,1,2,1,1,1,0,0
+EB205,Waigeo,Waigeo,yes,core zone,no-take,WGO_03,S,0.4um,S04,44,19,18,4,62,4,32,11,5,7,0,0,1,1,2,2,2,2,6,4,1,1,2,2
+EB207,Waigeo,Waigeo,yes,core zone,no-take,WGO_04,S,0.4um,S04,50,12,22,6,89,10,53,23,3,3,1,1,1,1,3,5,1,1,8,4,1,1,0,0
+EB209,Waigeo,Waigeo,yes,tourism zone,no-take,WGO_05,S,0.4um,S04,37,11,16,5,62,10,32,11,4,4,1,3,0,0,0,0,2,2,5,2,1,1,0,0
+EB211,Waigeo,Waigeo,yes,tourism zone,no-take,WGO_06,S,0.4um,S04,40,7,16,4,60,7,28,10,4,5,0,0,0,0,1,2,2,2,9,4,1,3,0,0
+EB213,Waigeo,Waigeo,yes,tourism zone,no-take,WGO_07,S,0.4um,S04,46,19,16,6,83,6,44,17,7,9,1,1,0,0,1,1,6,7,8,5,1,2,0,0
+EB215,Waigeo,Waigeo,yes,core zone,no-take,WGO_08,S,0.4um,S04,74,8,27,9,111,9,53,20,6,8,1,1,1,1,5,7,6,6,9,9,1,1,0,0
+EB217,Waigeo,Waigeo,yes,tourism zone,no-take,WGO_09,S,0.4um,S04,110,9,34,9,176,14,63,19,5,7,3,6,5,5,2,2,11,13,20,17,1,2,3,5
+EB219,Waigeo,Waigeo,yes,tourism zone,no-take,WGO_10,S,0.4um,S04,45,9,18,8,68,7,31,13,3,3,0,0,0,0,1,1,6,6,7,9,1,4,1,1
+EB222,Waigeo,Waigeo,no,open access,unrestricted,WGO_12,S,0.4um,S04,16,4,5,3,23,5,10,6,1,1,0,0,0,0,0,0,2,2,0,0,1,2,0,0
+EB223,Waigeo,Waigeo,no,open access,unrestricted,WGO_13,S,0.4um,S04,60,1,22,6,87,9,39,17,3,3,2,3,2,2,1,2,7,7,8,4,1,1,1,1
+EB227,Waigeo,Waigeo,yes,core zone,no-take,WGO_16,S,0.4um,S04,123,12,36,7,249,16,120,24,9,11,5,6,6,8,5,6,13,16,18,10,1,1,3,5
+EB229,Waigeo,Waigeo,yes,core zone,no-take,WGO_17,S,0.4um,S04,65,14,18,6,96,22,29,10,3,3,2,2,0,0,5,8,7,9,4,2,2,2,2,2
+EB232,Waigeo,Waigeo,no,open access,unrestricted,WGO_18,S,0.4um,S04,95,8,21,9,169,25,55,25,2,3,4,10,4,4,10,14,14,15,9,10,1,2,4,4
+EB237,Wakatobi,Wakatobi,no,open access,unrestricted,WK_03,S,0.4um,S04,167,19,45,17,313,31,121,32,17,29,4,5,9,10,5,5,22,28,25,24,2,2,1,2
+EB268,Wakatobi,Wakatobi,no,open access,unrestricted,WK_20,S,0.4um,S04,177,15,45,13,366,11,156,40,15,19,7,10,15,15,7,9,26,39,27,17,2,2,4,12
+EB270,Wakatobi,Wakatobi,no,open access,unrestricted,WK_04,S,0.4um,S04,135,7,35,9,267,14,94,26,9,16,5,7,10,12,8,13,13,17,23,14,2,2,1,1
+EB271,Wakatobi,Wakatobi,no,open access,unrestricted,WK_05,S,0.4um,S04,147,11,36,10,267,13,87,21,13,16,5,5,9,12,5,5,22,31,19,18,2,2,4,6
+EB272,Wakatobi,Wakatobi,no,open access,unrestricted,WK_06,S,0.4um,S04,122,7,28,9,178,26,52,12,10,14,3,3,13,14,4,4,17,17,15,13,2,2,1,1
+EB273,Wakatobi,Wakatobi,no,open access,unrestricted,WK_08,S,0.4um,S04,128,7,38,11,198,18,72,23,15,19,1,2,4,4,4,6,18,18,20,17,2,2,4,5
+EB274,Wakatobi,Wakatobi,no,open access,unrestricted,WK_09,S,0.4um,S04,162,18,40,11,303,23,97,25,13,16,2,4,17,17,9,12,20,24,23,15,3,3,6,9
+EB276,Wakatobi,Wakatobi,no,open access,unrestricted,WK_11,S,0.4um,S04,141,13,36,10,249,14,80,19,14,19,3,4,7,7,3,5,25,27,24,18,2,2,4,9
+EB278,Wakatobi,Wakatobi,no,open access,unrestricted,WK_12,S,0.4um,S04,154,15,39,12,271,16,89,19,12,16,6,8,13,14,8,15,15,18,21,19,2,2,5,6
+EB280,Wakatobi,Wakatobi,no,open access,unrestricted,WK_15,S,0.4um,S04,91,5,18,7,109,2,25,10,9,10,3,3,3,3,1,1,18,19,19,11,2,2,5,6
+EB281,Wakatobi,Wakatobi,no,open access,unrestricted,WK_16,S,0.4um,S04,135,5,39,10,243,10,105,29,10,11,1,1,6,7,3,4,26,32,20,16,2,2,4,8
+EB357,Lombok,North Lombok,yes,core zone,no-take,LBK_01,S,0.4um,S04,27,12,6,2,37,7,9,3,2,2,1,1,0,0,2,2,4,4,1,2,1,1,1,1
+EB361,Lombok,North Lombok,yes,sustainable fisheries zone,gear-restricted,LBK_02,S,0.4um,S04,174,12,44,16,380,28,124,47,14,20,4,8,11,14,11,25,29,40,21,13,2,2,5,10
+EB365,Lombok,North Lombok,yes,sustainable fisheries zone,gear-restricted,LBK_03,S,0.4um,S04,142,16,37,15,307,35,97,37,6,6,3,6,10,10,7,24,20,28,19,7,2,2,4,6
+EB369,Lombok,North Lombok,yes,core zone,no-take,LBK_04,S,0.4um,S04,97,12,26,9,193,19,59,25,6,12,3,5,7,7,5,11,11,11,9,5,2,2,2,3
+EB372,Lombok,North Lombok,no,open access,unrestricted,LBK_05,S,0.4um,S04,73,11,20,6,149,12,47,16,6,8,5,8,3,4,4,7,11,16,6,4,1,1,2,3
+EB375,Lombok,North Lombok,no,open access,unrestricted,LBK_06,S,0.4um,S04,101,7,17,8,203,32,45,20,4,5,7,9,7,10,8,22,23,29,3,2,1,1,3,3
+EB377,Lombok,South Lombok,yes,core zone,no-take,LBK_07,S,0.4um,S04,107,10,24,10,190,13,45,22,2,4,4,10,10,11,2,3,26,32,12,5,1,1,0,0
+EB378,Lombok,South Lombok,no,open access,unrestricted,LBK_09,S,0.4um,S04,96,7,30,11,156,17,57,21,2,2,2,4,7,10,2,2,9,9,14,7,2,2,2,2
+EB379,Lombok,South Lombok,yes,core zone,no-take,LBK_10,S,0.4um,S04,63,11,23,7,87,11,34,9,3,3,0,0,1,2,1,1,8,10,7,2,1,1,2,2
+EB380,Lombok,South Lombok,yes,sustainable fisheries zone,gear-restricted,LBK_11,S,0.4um,S04,103,15,25,9,190,20,54,27,2,2,4,14,10,11,8,9,20,22,6,4,1,1,2,2
+EB383,Lombok,South Lombok,yes,sustainable fisheries zone,gear-restricted,LBK_12,S,0.4um,S04,98,7,20,6,171,15,53,18,4,5,4,5,4,6,5,7,20,29,15,9,1,1,1,1
+EB386,Lombok,North Lombok,yes,core zone,no-take,LBK_13,S,0.4um,S04,84,6,10,3,203,30,25,10,3,4,3,13,14,21,5,7,11,12,5,3,1,1,0,0
+EB390,Lombok,North Lombok,yes,sustainable fisheries zone,gear-restricted,LBK_14,S,0.4um,S04,129,10,24,9,381,52,84,33,7,11,5,16,17,23,12,44,8,9,10,9,1,1,3,4
+EB394,Lombok,North Lombok,yes,sustainable fisheries zone,gear-restricted,LBK_15,S,0.4um,S04,185,9,48,20,476,38,152,59,14,21,6,12,15,17,10,31,36,53,15,9,2,3,3,6
+EB503,Lombok,North Lombok,yes,core zone,no-take,LBK_16,S,12um,S12,84,6,13,6,139,34,20,8,7,10,3,6,6,7,5,12,9,9,8,6,1,1,0,0
+EB507,Lombok,North Lombok,no,open access,unrestricted,LBK_17,S,12um,S12,44,15,10,4,102,57,13,6,1,1,2,3,4,5,2,3,4,6,1,1,1,1,0,0
+EB510,Lombok,North Lombok,no,open access,unrestricted,LBK_18,S,12um,S12,82,8,17,6,120,13,26,15,3,4,5,6,13,13,2,2,16,17,4,3,1,1,1,1
+EB513,Lombok,South Lombok,yes,core zone,no-take,LBK_07,S,12um,S12,106,6,23,8,181,32,32,10,3,4,4,9,14,19,1,3,16,17,8,2,1,1,2,2
+EB517,Lombok,South Lombok,no,open access,unrestricted,LBK_08,S,12um,S12,79,6,27,11,106,27,37,15,0,0,2,4,5,7,1,1,10,10,5,1,1,1,2,2
+EB520,Lombok,South Lombok,no,open access,unrestricted,LBK_09,S,12um,S12,84,5,24,6,113,18,36,10,3,4,3,3,4,5,3,3,7,7,13,5,1,1,2,2
+EB523,Lombok,South Lombok,yes,core zone,no-take,LBK_10,S,12um,S12,140,11,36,14,246,30,66,23,7,12,4,10,16,21,7,9,16,20,15,7,2,2,3,3
+EB526,Lombok,South Lombok,yes,sustainable fisheries zone,gear-restricted,LBK_12,S,12um,S12,127,20,34,9,205,18,65,18,8,8,5,6,11,15,3,5,17,18,18,8,1,1,3,3
+EB533,Waigeo,Waigeo,yes,core zone,no-take,WGO_01,S,12um,S12,12,6,24,9,22,4,52,26,0,0,1,1,0,0,2,5,1,1,0,0,0,0,0,0
+EB537,Waigeo,Waigeo,yes,core zone,no-take,WGO_03,S,12um,S12,28,7,6,3,48,31,8,3,0,0,0,0,1,1,0,0,5,6,0,0,0,0,1,1
+EB539,Waigeo,Waigeo,yes,core zone,no-take,WGO_04,S,12um,S12,10,11,10,6,16,9,22,17,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+EB541,Waigeo,Waigeo,yes,tourism zone,no-take,WGO_05,S,12um,S12,11,3,3,3,15,5,4,4,0,0,0,0,1,1,1,1,2,3,0,0,0,0,0,0
+EB543,Waigeo,Waigeo,yes,tourism zone,no-take,WGO_06,S,12um,S12,33,21,13,9,50,22,25,19,0,0,1,1,1,1,3,4,2,2,1,0,0,0,1,1
+EB545,Waigeo,Waigeo,yes,tourism zone,no-take,WGO_07,S,12um,S12,47,25,22,13,85,48,31,22,1,1,1,1,2,2,3,3,6,7,2,1,0,0,0,0
+EB547,Waigeo,Waigeo,yes,core zone,no-take,WGO_08,S,12um,S12,33,15,4,2,70,40,8,6,1,1,2,2,0,0,2,2,3,3,2,2,0,0,0,0
+EB551,Waigeo,Waigeo,yes,tourism zone,no-take,WGO_10,S,12um,S12,25,18,20,12,37,9,32,20,0,0,1,5,0,0,1,1,4,4,6,4,1,1,0,0
+EB554,Waigeo,Waigeo,no,open access,unrestricted,WGO_11,S,12um,S12,18,13,13,9,20,7,22,15,1,1,0,0,0,0,0,0,3,3,0,0,0,0,0,0
+EB556,Waigeo,Waigeo,no,open access,unrestricted,WGO_12,S,12um,S12,24,4,29,7,48,28,70,14,0,0,0,0,0,0,0,0,3,3,0,0,0,0,0,0
+EB563,Waigeo,Waigeo,yes,core zone,no-take,WGO_16,S,12um,S12,17,13,6,3,21,5,8,5,0,0,0,0,0,0,2,2,3,3,2,2,0,0,0,0
+EB566,Waigeo,Waigeo,no,open access,unrestricted,WGO_18,S,12um,S12,10,12,4,3,17,9,7,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+EB572,Misool,Misool,yes,sustainable fisheries zone,gear-restricted,MIS_01,S,12um,S12,81,10,24,17,174,54,43,30,3,3,6,15,4,4,3,6,16,21,2,1,0,0,0,0
+EB576,Misool,Misool,yes,sustainable fisheries zone,gear-restricted,MIS_01,S,12um,S12,43,10,11,7,72,21,25,20,2,2,3,3,2,2,1,1,7,8,1,1,0,0,1,1
+EB580,Misool,Misool,yes,tourism zone,no-take,MIS_02,S,12um,S12,34,20,8,3,45,5,10,3,3,4,4,5,0,0,5,6,3,4,1,1,0,0,0,0
+EB584,Misool,Misool,yes,tourism zone,no-take,MIS_03,S,12um,S12,144,11,35,14,278,33,90,35,12,21,5,10,7,7,5,9,33,41,6,4,2,2,4,4
+EB588,Misool,Misool,yes,tourism zone,no-take,MIS_04,S,12um,S12,131,9,40,16,236,29,82,30,9,11,7,18,6,6,5,10,22,29,9,6,1,1,1,1
+EB592,Misool,Misool,yes,tourism zone,no-take,MIS_05,S,12um,S12,137,11,37,17,275,49,75,37,10,13,5,17,6,8,8,19,31,33,8,6,3,3,1,1
+EB596,Misool,Misool,yes,tourism zone,no-take,MIS_06,S,12um,S12,78,6,23,12,151,37,47,32,6,7,4,11,2,3,5,5,12,18,4,3,1,1,2,2
+EB604,Misool,Misool,yes,sustainable fisheries zone,gear-restricted,MIS_07,S,12um,S12,106,5,30,10,168,18,50,19,8,9,5,10,8,8,7,10,14,21,6,3,1,1,2,2
+EB608,Misool,Misool,yes,sustainable fisheries zone,gear-restricted,MIS_08,S,12um,S12,97,6,28,12,139,26,45,21,7,7,4,5,6,6,4,6,18,20,7,5,1,1,0,0
+EB612,Misool,Misool,yes,sustainable fisheries zone,gear-restricted,MIS_09,S,12um,S12,118,7,27,12,222,35,46,20,8,9,6,15,6,7,10,17,21,29,6,5,2,3,1,1
+EB616,Misool,Misool,yes,sustainable fisheries zone,gear-restricted,MIS_10,S,12um,S12,105,10,30,11,200,41,50,22,6,7,3,7,6,6,6,12,17,23,9,4,1,1,1,1
+EB620,Misool,Misool,yes,sustainable fisheries zone,gear-restricted,MIS_11,S,12um,S12,149,9,40,18,260,19,91,34,12,12,3,10,8,8,7,18,25,34,12,9,1,1,3,3
+EB624,Misool,Misool,yes,sustainable fisheries zone,gear-restricted,MIS_12,S,12um,S12,131,17,41,18,222,31,76,38,6,6,3,5,7,7,8,20,23,34,10,6,1,1,3,3
+EB628,Misool,Misool,yes,tourism zone,no-take,MIS_13,S,12um,S12,111,10,31,15,183,44,53,29,7,8,4,7,4,5,5,6,17,18,9,5,1,1,3,3
+EB632,Misool,Misool,yes,sustainable fisheries zone,gear-restricted,MIS_14,S,12um,S12,134,3,37,17,265,37,69,34,11,16,5,12,12,13,7,18,16,26,10,5,1,1,4,4
+EB636,Misool,Misool,yes,sustainable fisheries zone,gear-restricted,MIS_15,S,12um,S12,49,22,18,15,96,8,27,22,0,0,4,17,0,0,12,23,2,2,2,2,0,0,1,1
+EB640,Misool,Misool,yes,sustainable fisheries zone,gear-restricted,MIS_16,S,12um,S12,50,6,8,6,87,25,16,11,1,1,5,9,1,1,12,18,1,1,1,1,0,0,0,0
+EB644,Misool,Misool,yes,sustainable fisheries zone,gear-restricted,MIS_17,S,12um,S12,81,11,22,7,112,11,37,13,5,5,2,2,3,3,8,14,12,12,3,3,1,1,0,0
+EB648,Misool,Misool,yes,tourism zone,no-take,MIS_18,S,12um,S12,129,5,39,15,239,26,95,36,12,13,2,2,8,8,8,9,21,32,10,7,2,2,2,2
+EB652,Misool,Misool,yes,tourism zone,no-take,MIS_19,S,12um,S12,82,7,17,6,141,27,31,15,3,3,3,4,4,4,11,18,16,18,3,2,2,2,3,3
+EB656,Misool,Misool,yes,tourism zone,no-take,MIS_20,S,12um,S12,125,5,35,15,227,38,72,35,10,11,5,8,8,8,3,6,27,37,7,5,1,1,4,4
+EB660,Misool,Misool,yes,tourism zone,no-take,MIS_21,S,12um,S12,132,21,46,19,276,32,114,42,13,16,4,6,3,3,7,18,22,32,9,6,1,1,3,5
+EB20,Waigeo,Waigeo,yes,core zone,no-take,WGO_04,S,12um,S12,31,15,7,7,47,17,7,7,2,2,2,2,1,1,1,1,4,5,2,2,1,1,0,0
+EB21,Waigeo,Waigeo,yes,tourism zone,no-take,WGO_05,S,12um,S12,50,23,10,3,80,36,10,3,4,4,3,5,3,3,3,5,3,3,2,1,1,1,0,0
+EB22,Waigeo,Waigeo,yes,tourism zone,no-take,WGO_06,S,12um,S12,64,22,9,8,110,53,13,11,1,1,2,2,4,4,5,7,8,10,3,1,0,0,0,0
+EB23,Waigeo,Waigeo,yes,tourism zone,no-take,WGO_07,S,12um,S12,59,21,15,10,99,50,25,18,3,3,0,0,2,2,1,2,9,10,1,0,0,0,1,1
+EB24,Waigeo,Waigeo,yes,core zone,no-take,WGO_08,S,12um,S12,50,16,9,9,122,82,15,15,2,2,2,4,1,1,1,1,8,9,3,3,0,0,0,0
+EB25,Waigeo,Waigeo,yes,tourism zone,no-take,WGO_09,S,12um,S12,41,14,7,5,66,37,11,7,2,2,2,2,0,0,3,3,5,5,2,2,0,0,0,0
+EB26,Waigeo,Waigeo,yes,tourism zone,no-take,WGO_10,S,12um,S12,113,8,29,8,178,21,56,16,4,4,2,5,8,9,5,10,9,11,17,12,2,2,4,4
+EB41,Waigeo,Waigeo,yes,core zone,no-take,WGO_01,S,12um,S12,124,17,27,15,274,69,66,46,2,2,3,6,7,9,8,30,30,36,6,4,2,2,3,3
+EB42,Waigeo,Waigeo,yes,core zone,no-take,WGO_02,S,12um,S12,43,16,13,10,75,40,21,17,0,0,1,1,1,1,0,0,8,9,1,0,0,0,0,0
+EB44,Waigeo,Waigeo,no,open access,unrestricted,WGO_11,S,12um,S12,19,17,2,2,26,15,3,3,0,0,0,0,0,0,3,4,0,0,0,0,0,0,0,0
+EB45,Waigeo,Waigeo,no,open access,unrestricted,WGO_12,S,12um,S12,35,18,9,6,49,27,12,9,0,0,0,0,0,0,2,2,3,3,0,0,0,0,0,0
+EB46,Waigeo,Waigeo,yes,core zone,no-take,WGO_03,S,12um,S12,46,18,9,8,66,36,9,8,2,2,0,0,0,0,1,1,9,11,2,2,0,0,0,0
+EB203,Waigeo,Waigeo,yes,core zone,no-take,WGO_02,S,12um,S12,100,10,37,10,166,19,85,18,9,14,1,1,1,1,2,2,10,11,18,13,1,1,0,0
+EB224,Waigeo,Waigeo,no,open access,unrestricted,WGO_13,S,12um,S12,8,7,4,3,11,2,6,5,0,0,0,0,0,0,0,0,2,2,1,1,0,0,0,0
+EB230,Waigeo,Waigeo,yes,core zone,no-take,WGO_17,S,12um,S12,31,14,5,3,55,33,9,7,0,0,0,0,1,1,1,1,5,6,1,1,0,0,0,0
+EB234,Waigeo,Waigeo,no,open access,unrestricted,WGO_19,S,12um,S12,72,14,20,14,110,43,36,29,3,3,0,0,0,0,1,1,16,16,3,4,1,1,0,0
+EB238,Wakatobi,Wakatobi,no,open access,unrestricted,WK_03,S,12um,S12,147,9,43,12,251,34,100,24,15,21,1,1,5,6,5,7,20,25,25,18,2,2,0,0
+EB241,Wakatobi,Wakatobi,no,open access,unrestricted,WK_04,S,12um,S12,66,1,21,9,125,42,30,16,4,4,4,5,4,4,7,11,3,3,3,2,1,1,2,2
+EB244,Wakatobi,Wakatobi,no,open access,unrestricted,WK_05,S,12um,S12,58,11,16,10,127,67,25,16,1,2,1,1,3,3,2,2,10,11,3,2,0,0,1,1
+EB247,Wakatobi,Wakatobi,no,open access,unrestricted,WK_06,S,12um,S12,46,7,13,5,76,27,24,12,3,3,1,1,0,0,0,0,8,9,3,2,1,1,1,1
+EB250,Wakatobi,Wakatobi,no,open access,unrestricted,WK_08,S,12um,S12,81,5,19,13,152,53,42,30,13,14,2,2,1,1,2,3,20,25,3,1,0,0,1,1
+EB255,Wakatobi,Wakatobi,no,open access,unrestricted,WK_11,S,12um,S12,128,21,24,13,228,52,44,22,17,24,2,4,12,12,6,13,22,29,9,9,1,1,3,3
+EB259,Wakatobi,Wakatobi,no,open access,unrestricted,WK_15,S,12um,S12,109,14,23,14,177,40,32,18,10,11,3,4,8,8,3,3,19,22,9,7,2,2,6,9
+EB262,Wakatobi,Wakatobi,no,open access,unrestricted,WK_16,S,12um,S12,130,13,36,10,224,28,89,31,14,19,2,2,6,7,5,5,17,25,18,16,2,2,0,0
+EB265,Wakatobi,Wakatobi,no,open access,unrestricted,WK_18,S,12um,S12,107,11,27,13,226,67,72,37,9,11,4,12,7,8,6,9,18,22,8,4,1,1,2,2
+EB269,Wakatobi,Wakatobi,no,open access,unrestricted,WK_20,S,12um,S12,109,9,31,16,231,65,64,37,7,9,4,4,9,12,5,8,19,23,2,1,2,2,3,3
+EB275,Wakatobi,Wakatobi,no,open access,unrestricted,WK_09,S,12um,S12,90,8,22,14,186,73,38,29,6,7,3,4,4,4,2,3,22,29,1,1,0,0,2,2
+EB279,Wakatobi,Wakatobi,no,open access,unrestricted,WK_12,S,12um,S12,70,1,17,12,119,41,31,24,4,4,1,1,3,3,4,5,12,14,3,4,0,0,1,1
+EB358,Lombok,North Lombok,yes,core zone,no-take,LBK_01,S,12um,S12,124,4,30,10,255,42,62,32,7,11,4,7,8,9,7,13,24,28,13,9,2,2,3,6
+EB362,Lombok,North Lombok,yes,sustainable fisheries zone,gear-restricted,LBK_02,S,12um,S12,125,3,33,10,231,26,86,26,11,13,5,7,6,6,5,6,19,26,13,7,1,1,4,4
+EB366,Lombok,North Lombok,yes,sustainable fisheries zone,gear-restricted,LBK_03,S,12um,S12,168,4,43,18,401,57,119,49,16,20,5,11,12,17,6,16,24,31,17,12,1,1,6,9
+EB370,Lombok,North Lombok,yes,core zone,no-take,LBK_04,S,12um,S12,120,6,21,8,237,48,49,19,6,10,5,8,11,15,5,5,16,17,11,5,2,2,3,3
+EB373,Lombok,North Lombok,no,open access,unrestricted,LBK_05,S,12um,S12,101,5,21,9,207,42,46,19,7,9,5,9,4,4,2,6,17,19,9,11,1,1,2,2
+EB376,Lombok,North Lombok,no,open access,unrestricted,LBK_06,S,12um,S12,96,8,18,9,160,29,27,13,7,7,6,8,7,9,5,6,21,26,7,6,0,0,1,1
+EB381,Lombok,South Lombok,yes,sustainable fisheries zone,gear-restricted,LBK_11,S,12um,S12,84,14,24,9,129,34,40,18,3,3,6,8,4,5,4,4,15,15,4,4,1,1,1,1
+EB387,Lombok,North Lombok,yes,core zone,no-take,LBK_13,S,12um,S12,54,10,7,3,98,23,10,5,1,1,2,6,5,8,2,4,15,17,2,1,1,1,1,1
+EB391,Lombok,North Lombok,yes,sustainable fisheries zone,gear-restricted,LBK_14,S,12um,S12,104,5,20,12,246,61,44,29,6,8,4,9,11,17,6,10,25,31,3,3,0,0,1,1
+EB395,Lombok,North Lombok,yes,sustainable fisheries zone,gear-restricted,LBK_15,S,12um,S12,71,8,17,10,128,28,23,15,4,4,4,7,2,2,2,6,19,27,2,1,1,1,1,1
