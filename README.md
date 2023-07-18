@@ -21,7 +21,7 @@ PCoA plots and barplots of dinoflagellate community composition constructed in R
 #### Figure 5
 Overall protist richness, dinoflagellate richness, and diatom richness by location and sample type. Plots made in R and labels updated in Adobe Illustrator.
 
-### Figure 6
+#### Figure 6
 Fish abundances by trophic group and sampling region, constructed in R, final labels added in Adobe Illustrator.
 
 #### Figure 7
@@ -33,7 +33,7 @@ Barplot for V9 mock community plotted in R and labeled in Adobe Illustrator.
 #### Figure S2
 Rarefaction curves by sample type and locations plotted in R.
 
-### Figure S3
+#### Figure S3
 PCoA plots by sample type and location with colors representing fishing restrictions at sites. Final labels on plots edited in Adobe Illustrator.
 
 #### Figure S4
