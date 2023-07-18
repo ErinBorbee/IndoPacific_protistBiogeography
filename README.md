@@ -16,20 +16,30 @@ Protist community composition plots (a) by sampling region, and (b) by sample ty
 PCoA plots by sample type and location, plotted in R using the phyloseq package. Final labels added to plots in Adobe Illustrator.
 
 #### Figure 4
-PCoA plots by sample type and location with colors representing fishing restrictions at sites. Final labels on plots edited in Adobe Illustrator.
+PCoA plots and barplots of dinoflagellate community composition constructed in R, final figure labels added in Adobe Illustrator.
 
 #### Figure 5
-Fish abundances and protist richness by fishing restrictions plotted in R, statistics done using vegan package. Significance labels added to plots in Adobe Illustrator.
-
-#### Figure 6
 Overall protist richness, dinoflagellate richness, and diatom richness by location and sample type. Plots made in R and labels updated in Adobe Illustrator.
+
+### Figure 6
+Fish abundances by trophic group and sampling region, constructed in R, final labels added in Adobe Illustrator.
 
 #### Figure 7
 Map of Indonesia with boses indicating sampling regions and arrows indicating surface current patterns. Map plotted using the same script as Figure 1 and arrows and boxes added to map in Adobe Illustrator.
 
-#### Supplemental Figure 1
+#### Figure S1
 Barplot for V9 mock community plotted in R and labeled in Adobe Illustrator.
 
-#### Supplemental Figure 2
+#### Figure S2
 Rarefaction curves by sample type and locations plotted in R.
+
+### Figure S3
+PCoA plots by sample type and location with colors representing fishing restrictions at sites. Final labels on plots edited in Adobe Illustrator.
+
+#### Figure S4
+Fish abundances and protist richness by fishing restrictions plotted in R, statistics done using vegan package. Significance labels added to plots in Adobe Illustrator.
+
+
+
+
 
